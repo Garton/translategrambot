@@ -2,9 +2,11 @@ from fastapi import FastAPI
 from app.api.routes import router
 from app.core.webhook import register_webhook
 from app.bot import bot, dp
+from app.logging_conf import setup_logging
 
 import asyncio
 
+setup_logging()
 app = FastAPI()
 
 app.include_router(router)
