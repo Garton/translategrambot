@@ -19,7 +19,7 @@ async def echo(message: types.Message):
         await message.answer(text, reply_markup=popular_pairs_keyboard())
         return
     
-    await message.answer(f"Translated to {iso}: {message.text}")
+    await message.answer(f"Translated from {iso}: {message.text}")
 
 @router.callback_query(F.data.startswith("pair_"))
 async def pair_chosen(cb: types.CallbackQuery):

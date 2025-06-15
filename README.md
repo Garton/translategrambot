@@ -11,6 +11,9 @@ A universal translator bot built with **FastAPI**, **aiogram**, and **transforme
 - Dockerized development environment
 - Ready for deployment with CI/CD
 
+Language detection relies on langdetect with fallback to Lingua-py.
+Short texts < 10 chars may require manual language selection.
+
 ## 🔧 Requirements
 
 - Python 3.11
