@@ -1,5 +1,4 @@
 import logging
-
 from logging.config import dictConfig
 
 LOGGING_CONFIG = {
@@ -21,6 +20,7 @@ LOGGING_CONFIG = {
         "handlers": ["default"],
     },
 }
+
 
 def setup_logging() -> None:
     dictConfig(LOGGING_CONFIG)

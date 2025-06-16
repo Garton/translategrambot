@@ -1,13 +1,14 @@
-import logging, time
+import logging
+import time
 from typing import Optional
 
-from langdetect import detect_langs, DetectorFactory, LangDetectException
+from langdetect import DetectorFactory, LangDetectException, detect_langs
 from lingua import Language, LanguageDetectorBuilder
 
 logger = logging.getLogger(__name__)
 
-_MIN_LEN = 10          # всё короче 10 симв — шум
-_MAIN_THRESHOLD = 0.90 # langdetect: минимальная уверенность
+_MIN_LEN = 10  # всё короче 10 симв — шум
+_MAIN_THRESHOLD = 0.90  # langdetect: минимальная уверенность
 
 
 class LanguageService:
@@ -42,7 +43,7 @@ class LanguageService:
         if len(text) < _MIN_LEN:
             return None
         try:
-            top = detect_langs(text)[0]          # lang:prob
+            top = detect_langs(text)[0]  # lang:prob
         except LangDetectException:
             return None
 
@@ -58,8 +59,10 @@ class LanguageService:
             return None
 
         confidence = self._lingua.compute_language_confidence(text, language)
-        logger.debug("lingua iso=%s conf=%.2f", language.iso_code_639_1.name, confidence)
+        logger.debug(
+            "lingua iso=%s conf=%.2f", language.iso_code_639_1.name, confidence
+        )
 
-        if confidence >= 0.90:                # порог подбирай
+        if confidence >= 0.90:  # порог подбирай
             return language.iso_code_639_1.name.lower()
         return None

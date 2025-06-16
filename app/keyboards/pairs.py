@@ -1,11 +1,12 @@
 # app/keyboards/pairs.py
-from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
+from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 PAIR_BUTTONS = [
     ("RU → EN", "pair_ru_en"),
     ("EN → RU", "pair_en_ru"),
     ("ES → EN", "pair_es_en"),
 ]
+
 
 def popular_pairs_keyboard() -> InlineKeyboardMarkup:
     rows = [

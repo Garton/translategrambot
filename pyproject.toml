@@ -30,6 +30,9 @@ pytest = "^8.4.0"
 lingua-language-detector = "^2.1.1"
 uvicorn = "^0.34.3"
 pytest-asyncio = "^1.0.0"
+pre-commit = "^4.2.0"
+isort = "^6.0.1"
+black = "^25.1.0"
 
 [tool.pytest.ini_options]
 pythonpath = ["."]
@@ -37,3 +40,12 @@ pythonpath = ["."]
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.black]
+line-length = 88
+target-version = ["py311"]
+
+[tool.isort]
+profile = "black"      # гарантирует, что isort не спорит с black
+line_length = 88
+known_first_party = ["app"]

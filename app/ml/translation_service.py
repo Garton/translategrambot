@@ -1,9 +1,11 @@
 from __future__ import annotations
-import logging, time
-from pathlib import Path
-from functools import lru_cache
 
-from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, pipeline
+import logging
+import time
+from functools import lru_cache
+from pathlib import Path
+
+from transformers import AutoModelForSeq2SeqLM, AutoTokenizer, pipeline
 
 logger = logging.getLogger(__name__)
 
