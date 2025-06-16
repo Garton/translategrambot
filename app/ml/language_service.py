@@ -54,6 +54,9 @@ class LanguageService:
 
     def _fallback_detector(self, text: str) -> str | None:
         language = self._lingua.detect_language_of(text)
+        if not language:
+            return None
+
         confidence = self._lingua.compute_language_confidence(text, language)
         logger.debug("lingua iso=%s conf=%.2f", language.iso_code_639_1.name, confidence)
 
