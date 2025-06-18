@@ -991,6 +991,18 @@ MarkupSafe = ">=2.0"
 i18n = ["Babel (>=2.7)"]
 
 [[package]]
+name = "joblib"
+version = "1.5.1"
+description = "Lightweight pipelining with Python functions"
+optional = false
+python-versions = ">=3.9"
+groups = ["main"]
+files = [
+    {file = "joblib-1.5.1-py3-none-any.whl", hash = "sha256:4719a31f054c7d766948dcd83e9613686b27114f190f717cec7eaa2084f8a74a"},
+    {file = "joblib-1.5.1.tar.gz", hash = "sha256:f4f86e351f39fe3d0d32a9f2c3d8af1ee4cec285aafcb27003dda5205576b444"},
+]
+
+[[package]]
 name = "langcodes"
 version = "3.5.0"
 description = "Tools for labeling human languages with IETF language tags"
@@ -2567,6 +2579,24 @@ pygments = ">=2.13.0,<3.0.0"
 jupyter = ["ipywidgets (>=7.5.1,<9)"]
 
 [[package]]
+name = "sacremoses"
+version = "0.1.1"
+description = "SacreMoses"
+optional = false
+python-versions = ">=3.8"
+groups = ["main"]
+files = [
+    {file = "sacremoses-0.1.1-py3-none-any.whl", hash = "sha256:31e04c98b169bfd902144824d191825cd69220cdb4ae4bcf1ec58a7db5587b1a"},
+    {file = "sacremoses-0.1.1.tar.gz", hash = "sha256:b6fd5d3a766b02154ed80b962ddca91e1fd25629c0978c7efba21ebccf663934"},
+]
+
+[package.dependencies]
+click = "*"
+joblib = "*"
+regex = "*"
+tqdm = "*"
+
+[[package]]
 name = "safetensors"
 version = "0.5.3"
 description = ""
@@ -3716,4 +3746,4 @@ propcache = ">=0.2.1"
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.11,<3.14"
-content-hash = "17a20e09638e12f20838750c41e61e290b55595ca7cdf3512631db481dd6b120"
+content-hash = "fac106573e2308ab99b7959fb0f7eba3a1403ae5913bc4f4e5dc36e670d2bac1"
