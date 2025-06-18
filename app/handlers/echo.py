@@ -25,7 +25,7 @@ async def echo(message: types.Message):
         await message.answer(text, reply_markup=popular_pairs_keyboard())
         return
 
-    target_iso = extract_target_language(message.text)
+    target_iso, text = extract_target_language(text)
     if target_iso and target_iso == src_iso:
         await message.answer("This is the same language...")
         await message.answer(text)
