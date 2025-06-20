@@ -16,8 +16,6 @@ _MODEL_TPL_LIGHTWEIGHT = "Helsinki-NLP/opus-mt-{src}-{tgt}"
 _MODEL_TPL_HEAVY = "facebook/nllb-200-distilled-600M"
 from app.ml.nllb_codes import NLLB_CODES as _MODEL_TPL_HEAVY_CODE_MAP
 
-_MAX_TOKENS = 512
-
 
 class TranslationService:
     """
@@ -43,11 +41,15 @@ class TranslationService:
 
         start = time.perf_counter()
         parts = split(text)
+
+        # optimize for batch processing on cpu
+        batch = 8 if len(parts) > 4 else len(parts)
+
         outs = pipe(
             parts,
-            max_length=_MAX_TOKENS,
             max_new_tokens=max_new_tokens,
             truncation=True,
+            batch_size=batch,
         )
         out = " ".join([out["translation_text"] for out in outs])
         logger.info(

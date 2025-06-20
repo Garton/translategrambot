@@ -7,14 +7,14 @@ from lingua import Language, LanguageDetectorBuilder
 
 logger = logging.getLogger(__name__)
 
-_MIN_LEN = 10  # всё короче 10 симв — шум
-_MAIN_THRESHOLD = 0.90  # langdetect: минимальная уверенность
+_MIN_LEN = 10  # less than 10 chars — noise
+_MAIN_THRESHOLD = 0.90  # langdetect: minimum confidence
 
 
 class LanguageService:
     def __init__(self) -> None:
         DetectorFactory.seed = 0
-        # --- инициализируем один раз ---
+        # --- initialize once ---
         self._lingua = (
             LanguageDetectorBuilder.from_all_languages()
             .with_low_accuracy_mode()
@@ -23,7 +23,7 @@ class LanguageService:
 
     # ---------- PUBLIC --------------------------------------------------
     def detect(self, text: str) -> Optional[str]:
-        """Вернёт ISO-код языка или None."""
+        """Return ISO code of language or None."""
         if not self._is_valid(text):
             return None
 
@@ -39,7 +39,7 @@ class LanguageService:
         return bool(text and not text.isspace() and not text.isnumeric())
 
     def _primary_detector(self, text: str) -> Optional[str]:
-        """langdetect с фильтром длины и confidence."""
+        """langdetect with length and confidence filters."""
         if len(text) < _MIN_LEN:
             return None
         try:
@@ -63,6 +63,6 @@ class LanguageService:
             "lingua iso=%s conf=%.2f", language.iso_code_639_1.name, confidence
         )
 
-        if confidence >= 0.90:  # порог подбирай
+        if confidence >= 0.90:  # threshold
             return language.iso_code_639_1.name.lower()
         return None
