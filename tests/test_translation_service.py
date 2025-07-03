@@ -1,5 +1,3 @@
-import asyncio
-
 import pytest
 
 from app.ml.translation_service import TranslationService

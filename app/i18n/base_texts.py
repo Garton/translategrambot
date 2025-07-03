@@ -1,10 +1,4 @@
-# app/i18n/resources.py
-"""
-Runtime i18n strings.  Fallback text is auto-translated and cached.
-"""
 from typing import Dict
-
-from app.services import translation_service
 
 TEXTS: Dict[str, Dict[str, str]] = {
     "en": {
@@ -37,6 +31,9 @@ TEXTS: Dict[str, Dict[str, str]] = {
         ),
         # /reset or end of session
         "bye": "👋 Settings cleared. Type /start to begin again.",
+        "unknown": "Could not detect the language.\nSend a longer text or select a pair below 👇",
+        "pair_chosen": "Great! Now send the text to translate.",
+        "choose_pair": "🔤 Choose source → target language:",
     },
     "ru": {
         "start": (
@@ -62,27 +59,8 @@ TEXTS: Dict[str, Dict[str, str]] = {
             "французский, испанский, итальянский, китайский."
         ),
         "bye": "👋 Настройки сброшены. Наберите /start, чтобы начать заново.",
+        "unknown": "Не удалось определить язык.\nОтправьте более длинный текст или выберите пару ниже 👇",
+        "pair_chosen": "Отлично! Теперь отправьте текст для перевода.",
+        "choose_pair": "🔤 Выберите направление перевода:",
     },
 }
-
-DEFAULT_LANG = "en"
-
-
-async def get_text(lang: str | None, key: str) -> str:
-    """
-    Return UI string for given language.
-    If missing — translate from English via TranslationService.
-    """
-    base = TEXTS.get(lang := (lang or DEFAULT_LANG)[:2])
-    if base and key in base:
-        return base[key]
-
-    # fallback: translate English text, cache it
-    src_text = TEXTS[DEFAULT_LANG][key]
-    translated = await translation_service.translate(src_text, DEFAULT_LANG, lang)
-    if translated:
-        TEXTS.setdefault(lang, {})[key] = translated
-        return translated
-
-    # last resort — English
-    return src_text

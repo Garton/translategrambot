@@ -2,7 +2,7 @@ import logging
 
 from aiogram import F, Router, types
 
-from app.i18m.messages import get_message
+from app.i18n.resources import get_text
 from app.keyboards.pairs import popular_pairs_keyboard
 from app.ml.language_parser import extract_target_language
 from app.ml.language_service import LanguageService
@@ -15,13 +15,13 @@ translator = TranslationService()
 
 
 @router.message()
-async def echo(message: types.Message):
+async def translate(message: types.Message):
     logger.info("%s: %s", message.from_user.id, message.text)
 
     text = message.text or ""
     src_iso = ls.detect(message.text)
     if src_iso is None:
-        text = get_message(message.from_user.language_code, "unknown")
+        text = await get_text(message.from_user.language_code, "unknown")
         await message.answer(text, reply_markup=popular_pairs_keyboard())
         return
 
@@ -38,12 +38,3 @@ async def echo(message: types.Message):
             return
 
     await message.answer("Unknown language pair")
-
-
-@router.callback_query(F.data.startswith("pair_"))
-async def pair_chosen(cb: types.CallbackQuery):
-    # сохраняем выбранную пару в FSM, пока просто отвечаем
-    reply = get_message(cb.from_user.language_code, "pair_chosen")
-    await cb.message.edit_reply_markup()  # уберём клаву
-    await cb.answer()
-    await cb.message.answer(reply)

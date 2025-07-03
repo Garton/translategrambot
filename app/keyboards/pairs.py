@@ -14,3 +14,13 @@ def popular_pairs_keyboard() -> InlineKeyboardMarkup:
         for label, data in PAIR_BUTTONS
     ]
     return InlineKeyboardMarkup(inline_keyboard=rows)
+
+
+def choose_pair_btn(ui_lang: str = "en") -> InlineKeyboardMarkup:
+    """
+    Single button that opens language-pair selector.
+    """
+    text = "🔤 Choose languages" if ui_lang == "en" else "🔤 Выбрать языки"
+    return InlineKeyboardMarkup(
+        inline_keyboard=[[InlineKeyboardButton(text=text, callback_data="choose_pair")]]
+    )

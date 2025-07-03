@@ -3,11 +3,11 @@ import datetime
 import pytest
 from aiogram.types import Chat, Message, User
 
-from app.handlers.echo import echo
+from app.handlers.translate import translate
 
 
 @pytest.mark.asyncio
-async def test_echo_handler(monkeypatch):
+async def test_translate_handler(monkeypatch):
     captured = {}
 
     async def fake_answer(self, text, **kwargs):
@@ -31,6 +31,6 @@ async def test_echo_handler(monkeypatch):
         ),
     )
 
-    await echo(msg)
+    await translate(msg)
     assert captured["text"].find("Could not detect the language") != -1
     assert captured["text"].find("English") != -1
