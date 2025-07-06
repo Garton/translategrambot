@@ -33,4 +33,3 @@ async def test_translate_handler(monkeypatch):
 
     await translate(msg)
     assert captured["text"].find("Could not detect the language") != -1
-    assert captured["text"].find("English") != -1

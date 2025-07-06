@@ -2,7 +2,7 @@
 """
 Runtime i18n strings.  Fallback text is auto-translated and cached.
 """
-from app.i18m.base_texts import TEXTS
+from app.i18n.base_texts import TEXTS
 from app.services import translation_service
 
 DEFAULT_LANG = "en"
