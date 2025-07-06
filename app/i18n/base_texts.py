@@ -34,6 +34,7 @@ TEXTS: Dict[str, Dict[str, str]] = {
         "unknown": "Could not detect the language.\nSend a longer text or select a pair below 👇",
         "pair_chosen": "Great! Now send the text to translate.",
         "choose_pair": "🔤 Choose source → target language:",
+        "unknown_language_pair": "🙏 We are sorry, but we are not able to figure out this language pair",
     },
     "ru": {
         "start": (
@@ -62,5 +63,6 @@ TEXTS: Dict[str, Dict[str, str]] = {
         "unknown": "Не удалось определить язык.\nОтправьте более длинный текст или выберите пару ниже 👇",
         "pair_chosen": "Отлично! Теперь отправьте текст для перевода.",
         "choose_pair": "🔤 Выберите направление перевода:",
+        "unknown_language_pair": "🙏 Мы очень сожалеем, но не можем определить пару языков",
     },
 }

@@ -37,4 +37,7 @@ async def translate(message: types.Message):
             await message.answer(translated)
             return
 
-    await message.answer("Unknown language pair")
+    unknown_pair_text = await get_text(
+        message.from_user.language_code, "unknown_language_pair"
+    )
+    await message.answer(unknown_pair_text, reply_markup=popular_pairs_keyboard())

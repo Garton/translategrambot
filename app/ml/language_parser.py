@@ -1,23 +1,26 @@
 import re
+from typing import Optional, Tuple
 
-LANGUAGES = {
-    "английский": "en",
-    "русский": "ru",
-    "китайский": "zh",
-    "французский": "fr",
-    "немецкий": "de",
-    "испанский": "es",
-    "итальянский": "it",
-}
+from app.i18n.languages import LANGUAGES_EN, LANGUAGES_RU
+
+# common trigger phrases
+TRIGGER_RGX = re.compile(
+    r"(?:переведи(?:те)?\s+на|translate\s+to)\s+([a-zA-Zа-яё]+)",
+    re.I,
+)
 
 
-def extract_target_language(text: str) -> str:
-    pattern = r"переведи на (\w+)"
-    match = re.search(pattern, text.lower())
-    full_russian_name = match.group(1) if match else None
-    if match:
-        language = LANGUAGES.get(full_russian_name.lower(), None)
-        text = text.replace(match.group(0), "")
-    else:
-        language = None
-    return (language, text)
+def extract_target_language(text: str) -> Tuple[Optional[str], str]:
+    """
+    Detects 'translate to <lang>' / 'переведи на <язык>'.
+    Returns (ISO-2 target or None, cleaned_text).
+    """
+    m = TRIGGER_RGX.search(text)
+    if not m:
+        return None, text
+
+    lang_token = m.group(1).lower()
+    tgt = LANGUAGES_RU.get(lang_token) or LANGUAGES_EN.get(lang_token)
+
+    cleaned = text.replace(m.group(0), "").strip()
+    return tgt, cleaned
