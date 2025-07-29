@@ -1,0 +1,7006 @@
+{
+  "models": [
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-ar",
+      "language_pair": "en-ar",
+      "downloads": 120447,
+      "likes": 43
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-eu",
+      "language_pair": "en-eu",
+      "downloads": 131,
+      "likes": 5
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-sv",
+      "language_pair": "en-sv",
+      "downloads": 2529,
+      "likes": 8
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-en",
+      "language_pair": "fr-en",
+      "downloads": 931561,
+      "likes": 47
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-id-en",
+      "language_pair": "id-en",
+      "downloads": 27357,
+      "likes": 16
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-tc-big-ar-en",
+      "language_pair": "tc-big-ar-en",
+      "downloads": 18672,
+      "likes": 19
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-NORTH_EU-NORTH_EU",
+      "language_pair": "NORTH_EU-NORTH_EU",
+      "downloads": 85,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ROMANCE-en",
+      "language_pair": "ROMANCE-en",
+      "downloads": 53554,
+      "likes": 8
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-SCANDINAVIA-SCANDINAVIA",
+      "language_pair": "SCANDINAVIA-SCANDINAVIA",
+      "downloads": 49,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-aav-en",
+      "language_pair": "aav-en",
+      "downloads": 99,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-aed-es",
+      "language_pair": "aed-es",
+      "downloads": 49,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-af-de",
+      "language_pair": "af-de",
+      "downloads": 106,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-af-en",
+      "language_pair": "af-en",
+      "downloads": 2252,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-af-eo",
+      "language_pair": "af-eo",
+      "downloads": 56,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-af-es",
+      "language_pair": "af-es",
+      "downloads": 63,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-af-fi",
+      "language_pair": "af-fi",
+      "downloads": 45,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-af-fr",
+      "language_pair": "af-fr",
+      "downloads": 46,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-af-nl",
+      "language_pair": "af-nl",
+      "downloads": 55,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-af-ru",
+      "language_pair": "af-ru",
+      "downloads": 105,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-af-sv",
+      "language_pair": "af-sv",
+      "downloads": 73,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-afa-afa",
+      "language_pair": "afa-afa",
+      "downloads": 44,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-afa-en",
+      "language_pair": "afa-en",
+      "downloads": 104,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-alv-en",
+      "language_pair": "alv-en",
+      "downloads": 78,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-am-sv",
+      "language_pair": "am-sv",
+      "downloads": 70,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ar-de",
+      "language_pair": "ar-de",
+      "downloads": 199,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ar-el",
+      "language_pair": "ar-el",
+      "downloads": 66,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ar-en",
+      "language_pair": "ar-en",
+      "downloads": 286794,
+      "likes": 44
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ar-eo",
+      "language_pair": "ar-eo",
+      "downloads": 53,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ar-es",
+      "language_pair": "ar-es",
+      "downloads": 294,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ar-fr",
+      "language_pair": "ar-fr",
+      "downloads": 724,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ar-he",
+      "language_pair": "ar-he",
+      "downloads": 147,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ar-it",
+      "language_pair": "ar-it",
+      "downloads": 99,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ar-pl",
+      "language_pair": "ar-pl",
+      "downloads": 63,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ar-ru",
+      "language_pair": "ar-ru",
+      "downloads": 275,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ar-tr",
+      "language_pair": "ar-tr",
+      "downloads": 146,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-art-en",
+      "language_pair": "art-en",
+      "downloads": 46,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ase-de",
+      "language_pair": "ase-de",
+      "downloads": 65,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ase-en",
+      "language_pair": "ase-en",
+      "downloads": 42,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ase-es",
+      "language_pair": "ase-es",
+      "downloads": 95,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ase-fr",
+      "language_pair": "ase-fr",
+      "downloads": 62,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ase-sv",
+      "language_pair": "ase-sv",
+      "downloads": 46,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-az-en",
+      "language_pair": "az-en",
+      "downloads": 1493,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-az-es",
+      "language_pair": "az-es",
+      "downloads": 54,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-az-tr",
+      "language_pair": "az-tr",
+      "downloads": 56,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bat-en",
+      "language_pair": "bat-en",
+      "downloads": 108,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bcl-de",
+      "language_pair": "bcl-de",
+      "downloads": 55,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bcl-en",
+      "language_pair": "bcl-en",
+      "downloads": 92,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bcl-es",
+      "language_pair": "bcl-es",
+      "downloads": 43,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bcl-fi",
+      "language_pair": "bcl-fi",
+      "downloads": 47,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bcl-fr",
+      "language_pair": "bcl-fr",
+      "downloads": 48,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bcl-sv",
+      "language_pair": "bcl-sv",
+      "downloads": 51,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-be-es",
+      "language_pair": "be-es",
+      "downloads": 68,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bem-en",
+      "language_pair": "bem-en",
+      "downloads": 79,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bem-es",
+      "language_pair": "bem-es",
+      "downloads": 46,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bem-fi",
+      "language_pair": "bem-fi",
+      "downloads": 44,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bem-fr",
+      "language_pair": "bem-fr",
+      "downloads": 74,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bem-sv",
+      "language_pair": "bem-sv",
+      "downloads": 57,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ber-en",
+      "language_pair": "ber-en",
+      "downloads": 101,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ber-es",
+      "language_pair": "ber-es",
+      "downloads": 69,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ber-fr",
+      "language_pair": "ber-fr",
+      "downloads": 44,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bg-de",
+      "language_pair": "bg-de",
+      "downloads": 76,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bg-en",
+      "language_pair": "bg-en",
+      "downloads": 6873,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bg-eo",
+      "language_pair": "bg-eo",
+      "downloads": 85,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bg-es",
+      "language_pair": "bg-es",
+      "downloads": 68,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bg-fi",
+      "language_pair": "bg-fi",
+      "downloads": 54,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bg-fr",
+      "language_pair": "bg-fr",
+      "downloads": 87,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bg-it",
+      "language_pair": "bg-it",
+      "downloads": 58,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bg-ru",
+      "language_pair": "bg-ru",
+      "downloads": 273,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bg-sv",
+      "language_pair": "bg-sv",
+      "downloads": 76,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bg-tr",
+      "language_pair": "bg-tr",
+      "downloads": 50,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bg-uk",
+      "language_pair": "bg-uk",
+      "downloads": 134,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bi-en",
+      "language_pair": "bi-en",
+      "downloads": 81,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bi-es",
+      "language_pair": "bi-es",
+      "downloads": 43,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bi-fr",
+      "language_pair": "bi-fr",
+      "downloads": 71,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bi-sv",
+      "language_pair": "bi-sv",
+      "downloads": 65,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bn-en",
+      "language_pair": "bn-en",
+      "downloads": 3052,
+      "likes": 8
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bnt-en",
+      "language_pair": "bnt-en",
+      "downloads": 97,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bzs-en",
+      "language_pair": "bzs-en",
+      "downloads": 141,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bzs-es",
+      "language_pair": "bzs-es",
+      "downloads": 67,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bzs-fi",
+      "language_pair": "bzs-fi",
+      "downloads": 42,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bzs-fr",
+      "language_pair": "bzs-fr",
+      "downloads": 78,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-bzs-sv",
+      "language_pair": "bzs-sv",
+      "downloads": 45,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ca-de",
+      "language_pair": "ca-de",
+      "downloads": 368,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ca-en",
+      "language_pair": "ca-en",
+      "downloads": 6119,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ca-es",
+      "language_pair": "ca-es",
+      "downloads": 338,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ca-fr",
+      "language_pair": "ca-fr",
+      "downloads": 62,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ca-it",
+      "language_pair": "ca-it",
+      "downloads": 60,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ca-nl",
+      "language_pair": "ca-nl",
+      "downloads": 73,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ca-pt",
+      "language_pair": "ca-pt",
+      "downloads": 53,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ca-uk",
+      "language_pair": "ca-uk",
+      "downloads": 62,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-cau-en",
+      "language_pair": "cau-en",
+      "downloads": 69,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ccs-en",
+      "language_pair": "ccs-en",
+      "downloads": 64,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ceb-en",
+      "language_pair": "ceb-en",
+      "downloads": 448,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ceb-es",
+      "language_pair": "ceb-es",
+      "downloads": 52,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ceb-fi",
+      "language_pair": "ceb-fi",
+      "downloads": 42,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ceb-fr",
+      "language_pair": "ceb-fr",
+      "downloads": 43,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ceb-sv",
+      "language_pair": "ceb-sv",
+      "downloads": 57,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-cel-en",
+      "language_pair": "cel-en",
+      "downloads": 107,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-chk-en",
+      "language_pair": "chk-en",
+      "downloads": 98,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-chk-es",
+      "language_pair": "chk-es",
+      "downloads": 42,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-chk-fr",
+      "language_pair": "chk-fr",
+      "downloads": 42,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-chk-sv",
+      "language_pair": "chk-sv",
+      "downloads": 42,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-cpf-en",
+      "language_pair": "cpf-en",
+      "downloads": 75,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-cpp-cpp",
+      "language_pair": "cpp-cpp",
+      "downloads": 84,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-cpp-en",
+      "language_pair": "cpp-en",
+      "downloads": 63,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-crs-de",
+      "language_pair": "crs-de",
+      "downloads": 43,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-crs-en",
+      "language_pair": "crs-en",
+      "downloads": 71,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-crs-es",
+      "language_pair": "crs-es",
+      "downloads": 63,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-crs-fi",
+      "language_pair": "crs-fi",
+      "downloads": 41,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-crs-fr",
+      "language_pair": "crs-fr",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-crs-sv",
+      "language_pair": "crs-sv",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-cs-de",
+      "language_pair": "cs-de",
+      "downloads": 560,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-cs-en",
+      "language_pair": "cs-en",
+      "downloads": 19260,
+      "likes": 3
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-cs-eo",
+      "language_pair": "cs-eo",
+      "downloads": 44,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-cs-fi",
+      "language_pair": "cs-fi",
+      "downloads": 67,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-cs-fr",
+      "language_pair": "cs-fr",
+      "downloads": 97,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-cs-sv",
+      "language_pair": "cs-sv",
+      "downloads": 88,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-cs-uk",
+      "language_pair": "cs-uk",
+      "downloads": 47,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-csg-es",
+      "language_pair": "csg-es",
+      "downloads": 41,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-csn-es",
+      "language_pair": "csn-es",
+      "downloads": 57,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-cus-en",
+      "language_pair": "cus-en",
+      "downloads": 107,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-cy-en",
+      "language_pair": "cy-en",
+      "downloads": 2464,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-da-de",
+      "language_pair": "da-de",
+      "downloads": 271,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-da-en",
+      "language_pair": "da-en",
+      "downloads": 56608,
+      "likes": 5
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-da-eo",
+      "language_pair": "da-eo",
+      "downloads": 44,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-da-es",
+      "language_pair": "da-es",
+      "downloads": 101,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-da-fi",
+      "language_pair": "da-fi",
+      "downloads": 167,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-da-fr",
+      "language_pair": "da-fr",
+      "downloads": 46,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-da-no",
+      "language_pair": "da-no",
+      "downloads": 62,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-da-ru",
+      "language_pair": "da-ru",
+      "downloads": 126,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-ZH",
+      "language_pair": "de-ZH",
+      "downloads": 430,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-af",
+      "language_pair": "de-af",
+      "downloads": 91,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-ar",
+      "language_pair": "de-ar",
+      "downloads": 353,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-ase",
+      "language_pair": "de-ase",
+      "downloads": 46,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-bcl",
+      "language_pair": "de-bcl",
+      "downloads": 54,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-bg",
+      "language_pair": "de-bg",
+      "downloads": 112,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-bi",
+      "language_pair": "de-bi",
+      "downloads": 40,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-bzs",
+      "language_pair": "de-bzs",
+      "downloads": 71,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-ca",
+      "language_pair": "de-ca",
+      "downloads": 76,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-crs",
+      "language_pair": "de-crs",
+      "downloads": 64,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-cs",
+      "language_pair": "de-cs",
+      "downloads": 64,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-da",
+      "language_pair": "de-da",
+      "downloads": 62,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-de",
+      "language_pair": "de-de",
+      "downloads": 64,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-ee",
+      "language_pair": "de-ee",
+      "downloads": 40,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-efi",
+      "language_pair": "de-efi",
+      "downloads": 40,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-el",
+      "language_pair": "de-el",
+      "downloads": 96,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-en",
+      "language_pair": "de-en",
+      "downloads": 247094,
+      "likes": 45
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-eo",
+      "language_pair": "de-eo",
+      "downloads": 38,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-es",
+      "language_pair": "de-es",
+      "downloads": 1444,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-et",
+      "language_pair": "de-et",
+      "downloads": 46,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-eu",
+      "language_pair": "de-eu",
+      "downloads": 48,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-fi",
+      "language_pair": "de-fi",
+      "downloads": 721,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-fj",
+      "language_pair": "de-fj",
+      "downloads": 69,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-fr",
+      "language_pair": "de-fr",
+      "downloads": 1829,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-gaa",
+      "language_pair": "de-gaa",
+      "downloads": 74,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-gil",
+      "language_pair": "de-gil",
+      "downloads": 63,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-guw",
+      "language_pair": "de-guw",
+      "downloads": 62,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-ha",
+      "language_pair": "de-ha",
+      "downloads": 56,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-he",
+      "language_pair": "de-he",
+      "downloads": 140,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-hil",
+      "language_pair": "de-hil",
+      "downloads": 38,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-ho",
+      "language_pair": "de-ho",
+      "downloads": 44,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-hr",
+      "language_pair": "de-hr",
+      "downloads": 91,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-ht",
+      "language_pair": "de-ht",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-hu",
+      "language_pair": "de-hu",
+      "downloads": 385,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-ig",
+      "language_pair": "de-ig",
+      "downloads": 51,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-ilo",
+      "language_pair": "de-ilo",
+      "downloads": 43,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-is",
+      "language_pair": "de-is",
+      "downloads": 51,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-iso",
+      "language_pair": "de-iso",
+      "downloads": 42,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-it",
+      "language_pair": "de-it",
+      "downloads": 3991,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-kg",
+      "language_pair": "de-kg",
+      "downloads": 41,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-ln",
+      "language_pair": "de-ln",
+      "downloads": 41,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-loz",
+      "language_pair": "de-loz",
+      "downloads": 56,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-lt",
+      "language_pair": "de-lt",
+      "downloads": 47,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-lua",
+      "language_pair": "de-lua",
+      "downloads": 38,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-ms",
+      "language_pair": "de-ms",
+      "downloads": 60,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-mt",
+      "language_pair": "de-mt",
+      "downloads": 87,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-niu",
+      "language_pair": "de-niu",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-nl",
+      "language_pair": "de-nl",
+      "downloads": 165,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-no",
+      "language_pair": "de-no",
+      "downloads": 77,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-nso",
+      "language_pair": "de-nso",
+      "downloads": 45,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-ny",
+      "language_pair": "de-ny",
+      "downloads": 97,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-pag",
+      "language_pair": "de-pag",
+      "downloads": 41,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-pap",
+      "language_pair": "de-pap",
+      "downloads": 81,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-pis",
+      "language_pair": "de-pis",
+      "downloads": 48,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-pl",
+      "language_pair": "de-pl",
+      "downloads": 387,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-pon",
+      "language_pair": "de-pon",
+      "downloads": 73,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-tl",
+      "language_pair": "de-tl",
+      "downloads": 57,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-uk",
+      "language_pair": "de-uk",
+      "downloads": 118,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-de-vi",
+      "language_pair": "de-vi",
+      "downloads": 119,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-dra-en",
+      "language_pair": "dra-en",
+      "downloads": 74,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ee-de",
+      "language_pair": "ee-de",
+      "downloads": 48,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ee-en",
+      "language_pair": "ee-en",
+      "downloads": 72,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ee-es",
+      "language_pair": "ee-es",
+      "downloads": 43,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ee-fi",
+      "language_pair": "ee-fi",
+      "downloads": 41,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ee-fr",
+      "language_pair": "ee-fr",
+      "downloads": 71,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ee-sv",
+      "language_pair": "ee-sv",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-efi-de",
+      "language_pair": "efi-de",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-efi-en",
+      "language_pair": "efi-en",
+      "downloads": 103,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-efi-fi",
+      "language_pair": "efi-fi",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-efi-fr",
+      "language_pair": "efi-fr",
+      "downloads": 41,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-efi-sv",
+      "language_pair": "efi-sv",
+      "downloads": 97,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-el-ar",
+      "language_pair": "el-ar",
+      "downloads": 49,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-el-eo",
+      "language_pair": "el-eo",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-el-fi",
+      "language_pair": "el-fi",
+      "downloads": 77,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-el-fr",
+      "language_pair": "el-fr",
+      "downloads": 62,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-el-sv",
+      "language_pair": "el-sv",
+      "downloads": 47,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-CELTIC",
+      "language_pair": "en-CELTIC",
+      "downloads": 51,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-ROMANCE",
+      "language_pair": "en-ROMANCE",
+      "downloads": 12129,
+      "likes": 7
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-aav",
+      "language_pair": "en-aav",
+      "downloads": 100,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-af",
+      "language_pair": "en-af",
+      "downloads": 472,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-afa",
+      "language_pair": "en-afa",
+      "downloads": 103,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-alv",
+      "language_pair": "en-alv",
+      "downloads": 87,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-az",
+      "language_pair": "en-az",
+      "downloads": 149,
+      "likes": 3
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-bat",
+      "language_pair": "en-bat",
+      "downloads": 91,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-bcl",
+      "language_pair": "en-bcl",
+      "downloads": 80,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-bem",
+      "language_pair": "en-bem",
+      "downloads": 81,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-ber",
+      "language_pair": "en-ber",
+      "downloads": 85,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-bg",
+      "language_pair": "en-bg",
+      "downloads": 637,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-bi",
+      "language_pair": "en-bi",
+      "downloads": 103,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-bnt",
+      "language_pair": "en-bnt",
+      "downloads": 77,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-bzs",
+      "language_pair": "en-bzs",
+      "downloads": 156,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-ca",
+      "language_pair": "en-ca",
+      "downloads": 283,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-ceb",
+      "language_pair": "en-ceb",
+      "downloads": 114,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-cel",
+      "language_pair": "en-cel",
+      "downloads": 83,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-chk",
+      "language_pair": "en-chk",
+      "downloads": 78,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-cpf",
+      "language_pair": "en-cpf",
+      "downloads": 103,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-cpp",
+      "language_pair": "en-cpp",
+      "downloads": 51,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-crs",
+      "language_pair": "en-crs",
+      "downloads": 77,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-cs",
+      "language_pair": "en-cs",
+      "downloads": 6668,
+      "likes": 7
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-cus",
+      "language_pair": "en-cus",
+      "downloads": 145,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-cy",
+      "language_pair": "en-cy",
+      "downloads": 148,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-da",
+      "language_pair": "en-da",
+      "downloads": 3318,
+      "likes": 3
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-de",
+      "language_pair": "en-de",
+      "downloads": 122002,
+      "likes": 40
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-dra",
+      "language_pair": "en-dra",
+      "downloads": 163,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-ee",
+      "language_pair": "en-ee",
+      "downloads": 72,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-efi",
+      "language_pair": "en-efi",
+      "downloads": 77,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-el",
+      "language_pair": "en-el",
+      "downloads": 1846,
+      "likes": 4
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-eo",
+      "language_pair": "en-eo",
+      "downloads": 110,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-es",
+      "language_pair": "en-es",
+      "downloads": 277436,
+      "likes": 117
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-et",
+      "language_pair": "en-et",
+      "downloads": 239,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-euq",
+      "language_pair": "en-euq",
+      "downloads": 72,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-fi",
+      "language_pair": "en-fi",
+      "downloads": 1263,
+      "likes": 4
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-fiu",
+      "language_pair": "en-fiu",
+      "downloads": 77,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-fj",
+      "language_pair": "en-fj",
+      "downloads": 69,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-fr",
+      "language_pair": "en-fr",
+      "downloads": 312177,
+      "likes": 63
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-ga",
+      "language_pair": "en-ga",
+      "downloads": 114,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-gaa",
+      "language_pair": "en-gaa",
+      "downloads": 68,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-gem",
+      "language_pair": "en-gem",
+      "downloads": 123,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-gil",
+      "language_pair": "en-gil",
+      "downloads": 100,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-gl",
+      "language_pair": "en-gl",
+      "downloads": 163,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-gmq",
+      "language_pair": "en-gmq",
+      "downloads": 137,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-gmw",
+      "language_pair": "en-gmw",
+      "downloads": 72,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-grk",
+      "language_pair": "en-grk",
+      "downloads": 86,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-guw",
+      "language_pair": "en-guw",
+      "downloads": 110,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-gv",
+      "language_pair": "en-gv",
+      "downloads": 65,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-ha",
+      "language_pair": "en-ha",
+      "downloads": 304,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-he",
+      "language_pair": "en-he",
+      "downloads": 1863,
+      "likes": 5
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-hi",
+      "language_pair": "en-hi",
+      "downloads": 63581,
+      "likes": 36
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-hil",
+      "language_pair": "en-hil",
+      "downloads": 66,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-ho",
+      "language_pair": "en-ho",
+      "downloads": 86,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-ht",
+      "language_pair": "en-ht",
+      "downloads": 170,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-hu",
+      "language_pair": "en-hu",
+      "downloads": 1402,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-hy",
+      "language_pair": "en-hy",
+      "downloads": 157,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-id",
+      "language_pair": "en-id",
+      "downloads": 32675,
+      "likes": 17
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-ig",
+      "language_pair": "en-ig",
+      "downloads": 105,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-iir",
+      "language_pair": "en-iir",
+      "downloads": 99,
+      "likes": 4
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-ilo",
+      "language_pair": "en-ilo",
+      "downloads": 83,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-inc",
+      "language_pair": "en-inc",
+      "downloads": 155,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-ine",
+      "language_pair": "en-ine",
+      "downloads": 148,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-is",
+      "language_pair": "en-is",
+      "downloads": 159,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-iso",
+      "language_pair": "en-iso",
+      "downloads": 69,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-it",
+      "language_pair": "en-it",
+      "downloads": 66340,
+      "likes": 17
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-itc",
+      "language_pair": "en-itc",
+      "downloads": 67,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-jap",
+      "language_pair": "en-jap",
+      "downloads": 13982,
+      "likes": 9
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-kg",
+      "language_pair": "en-kg",
+      "downloads": 53,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-kj",
+      "language_pair": "en-kj",
+      "downloads": 56,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-kqn",
+      "language_pair": "en-kqn",
+      "downloads": 124,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-kwn",
+      "language_pair": "en-kwn",
+      "downloads": 65,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-kwy",
+      "language_pair": "en-kwy",
+      "downloads": 60,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-lg",
+      "language_pair": "en-lg",
+      "downloads": 151,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-ln",
+      "language_pair": "en-ln",
+      "downloads": 80,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-loz",
+      "language_pair": "en-loz",
+      "downloads": 57,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-lu",
+      "language_pair": "en-lu",
+      "downloads": 68,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-lua",
+      "language_pair": "en-lua",
+      "downloads": 53,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-lue",
+      "language_pair": "en-lue",
+      "downloads": 62,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-lun",
+      "language_pair": "en-lun",
+      "downloads": 78,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-luo",
+      "language_pair": "en-luo",
+      "downloads": 93,
+      "likes": 3
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-lus",
+      "language_pair": "en-lus",
+      "downloads": 61,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-map",
+      "language_pair": "en-map",
+      "downloads": 52,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-mfe",
+      "language_pair": "en-mfe",
+      "downloads": 62,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-mg",
+      "language_pair": "en-mg",
+      "downloads": 104,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-mh",
+      "language_pair": "en-mh",
+      "downloads": 61,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-mk",
+      "language_pair": "en-mk",
+      "downloads": 144,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-mkh",
+      "language_pair": "en-mkh",
+      "downloads": 124,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-ml",
+      "language_pair": "en-ml",
+      "downloads": 10390,
+      "likes": 4
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-mos",
+      "language_pair": "en-mos",
+      "downloads": 64,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-mr",
+      "language_pair": "en-mr",
+      "downloads": 5231,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-mt",
+      "language_pair": "en-mt",
+      "downloads": 75,
+      "likes": 3
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-mul",
+      "language_pair": "en-mul",
+      "downloads": 3723,
+      "likes": 22
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-ng",
+      "language_pair": "en-ng",
+      "downloads": 54,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-nic",
+      "language_pair": "en-nic",
+      "downloads": 55,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-niu",
+      "language_pair": "en-niu",
+      "downloads": 56,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-nl",
+      "language_pair": "en-nl",
+      "downloads": 33174,
+      "likes": 5
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-nso",
+      "language_pair": "en-nso",
+      "downloads": 111,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-ny",
+      "language_pair": "en-ny",
+      "downloads": 60,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-nyk",
+      "language_pair": "en-nyk",
+      "downloads": 50,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-om",
+      "language_pair": "en-om",
+      "downloads": 60,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-pag",
+      "language_pair": "en-pag",
+      "downloads": 72,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-pap",
+      "language_pair": "en-pap",
+      "downloads": 54,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-phi",
+      "language_pair": "en-phi",
+      "downloads": 80,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-pis",
+      "language_pair": "en-pis",
+      "downloads": 57,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-pon",
+      "language_pair": "en-pon",
+      "downloads": 56,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-poz",
+      "language_pair": "en-poz",
+      "downloads": 41,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-pqe",
+      "language_pair": "en-pqe",
+      "downloads": 62,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-pqw",
+      "language_pair": "en-pqw",
+      "downloads": 62,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-rn",
+      "language_pair": "en-rn",
+      "downloads": 47,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-rnd",
+      "language_pair": "en-rnd",
+      "downloads": 44,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-ro",
+      "language_pair": "en-ro",
+      "downloads": 34850,
+      "likes": 7
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-roa",
+      "language_pair": "en-roa",
+      "downloads": 435,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-ru",
+      "language_pair": "en-ru",
+      "downloads": 73867,
+      "likes": 87
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-run",
+      "language_pair": "en-run",
+      "downloads": 81,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-rw",
+      "language_pair": "en-rw",
+      "downloads": 91,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-sal",
+      "language_pair": "en-sal",
+      "downloads": 48,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-sem",
+      "language_pair": "en-sem",
+      "downloads": 74,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-sg",
+      "language_pair": "en-sg",
+      "downloads": 50,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-sit",
+      "language_pair": "en-sit",
+      "downloads": 114,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-sk",
+      "language_pair": "en-sk",
+      "downloads": 4492,
+      "likes": 4
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-sla",
+      "language_pair": "en-sla",
+      "downloads": 211,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-sm",
+      "language_pair": "en-sm",
+      "downloads": 52,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-sn",
+      "language_pair": "en-sn",
+      "downloads": 47,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-sq",
+      "language_pair": "en-sq",
+      "downloads": 457,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-ss",
+      "language_pair": "en-ss",
+      "downloads": 63,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-st",
+      "language_pair": "en-st",
+      "downloads": 98,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-sw",
+      "language_pair": "en-sw",
+      "downloads": 2580,
+      "likes": 7
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-swc",
+      "language_pair": "en-swc",
+      "downloads": 138,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-tdt",
+      "language_pair": "en-tdt",
+      "downloads": 61,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-ti",
+      "language_pair": "en-ti",
+      "downloads": 171,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-tiv",
+      "language_pair": "en-tiv",
+      "downloads": 43,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-tl",
+      "language_pair": "en-tl",
+      "downloads": 3344,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-tll",
+      "language_pair": "en-tll",
+      "downloads": 42,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-tn",
+      "language_pair": "en-tn",
+      "downloads": 57,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-to",
+      "language_pair": "en-to",
+      "downloads": 47,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-toi",
+      "language_pair": "en-toi",
+      "downloads": 45,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-tpi",
+      "language_pair": "en-tpi",
+      "downloads": 44,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-trk",
+      "language_pair": "en-trk",
+      "downloads": 611,
+      "likes": 7
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-ts",
+      "language_pair": "en-ts",
+      "downloads": 67,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-tut",
+      "language_pair": "en-tut",
+      "downloads": 43,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-tvl",
+      "language_pair": "en-tvl",
+      "downloads": 41,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-tw",
+      "language_pair": "en-tw",
+      "downloads": 92,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-ty",
+      "language_pair": "en-ty",
+      "downloads": 61,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-uk",
+      "language_pair": "en-uk",
+      "downloads": 16201,
+      "likes": 14
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-umb",
+      "language_pair": "en-umb",
+      "downloads": 44,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-ur",
+      "language_pair": "en-ur",
+      "downloads": 2426,
+      "likes": 9
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-urj",
+      "language_pair": "en-urj",
+      "downloads": 80,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-vi",
+      "language_pair": "en-vi",
+      "downloads": 15428,
+      "likes": 11
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-xh",
+      "language_pair": "en-xh",
+      "downloads": 271,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-zh",
+      "language_pair": "en-zh",
+      "downloads": 77786,
+      "likes": 375
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-zle",
+      "language_pair": "en-zle",
+      "downloads": 45,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-zls",
+      "language_pair": "en-zls",
+      "downloads": 58,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en-zlw",
+      "language_pair": "en-zlw",
+      "downloads": 172,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-en_el_es_fi-en_el_es_fi",
+      "language_pair": "en_el_es_fi-en_el_es_fi",
+      "downloads": 66,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-eo-af",
+      "language_pair": "eo-af",
+      "downloads": 58,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-eo-bg",
+      "language_pair": "eo-bg",
+      "downloads": 61,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-eo-cs",
+      "language_pair": "eo-cs",
+      "downloads": 40,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-eo-da",
+      "language_pair": "eo-da",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-eo-de",
+      "language_pair": "eo-de",
+      "downloads": 491,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-eo-el",
+      "language_pair": "eo-el",
+      "downloads": 51,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-eo-en",
+      "language_pair": "eo-en",
+      "downloads": 3491,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-eo-es",
+      "language_pair": "eo-es",
+      "downloads": 38,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-eo-fi",
+      "language_pair": "eo-fi",
+      "downloads": 40,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-eo-fr",
+      "language_pair": "eo-fr",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-eo-he",
+      "language_pair": "eo-he",
+      "downloads": 59,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-eo-hu",
+      "language_pair": "eo-hu",
+      "downloads": 41,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-eo-it",
+      "language_pair": "eo-it",
+      "downloads": 77,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-eo-nl",
+      "language_pair": "eo-nl",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-eo-pl",
+      "language_pair": "eo-pl",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-eo-pt",
+      "language_pair": "eo-pt",
+      "downloads": 70,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-eo-ro",
+      "language_pair": "eo-ro",
+      "downloads": 49,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-eo-ru",
+      "language_pair": "eo-ru",
+      "downloads": 49,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-eo-sh",
+      "language_pair": "eo-sh",
+      "downloads": 35,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-eo-sv",
+      "language_pair": "eo-sv",
+      "downloads": 43,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-NORWAY",
+      "language_pair": "es-NORWAY",
+      "downloads": 44,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-aed",
+      "language_pair": "es-aed",
+      "downloads": 34,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-af",
+      "language_pair": "es-af",
+      "downloads": 67,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-ar",
+      "language_pair": "es-ar",
+      "downloads": 232,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-ase",
+      "language_pair": "es-ase",
+      "downloads": 40,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-bcl",
+      "language_pair": "es-bcl",
+      "downloads": 42,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-ber",
+      "language_pair": "es-ber",
+      "downloads": 58,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-bg",
+      "language_pair": "es-bg",
+      "downloads": 81,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-bi",
+      "language_pair": "es-bi",
+      "downloads": 55,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-bzs",
+      "language_pair": "es-bzs",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-ca",
+      "language_pair": "es-ca",
+      "downloads": 229,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-ceb",
+      "language_pair": "es-ceb",
+      "downloads": 34,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-crs",
+      "language_pair": "es-crs",
+      "downloads": 43,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-cs",
+      "language_pair": "es-cs",
+      "downloads": 107,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-csg",
+      "language_pair": "es-csg",
+      "downloads": 45,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-csn",
+      "language_pair": "es-csn",
+      "downloads": 63,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-da",
+      "language_pair": "es-da",
+      "downloads": 56,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-de",
+      "language_pair": "es-de",
+      "downloads": 1582,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-ee",
+      "language_pair": "es-ee",
+      "downloads": 41,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-efi",
+      "language_pair": "es-efi",
+      "downloads": 35,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-el",
+      "language_pair": "es-el",
+      "downloads": 45,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-en",
+      "language_pair": "es-en",
+      "downloads": 429892,
+      "likes": 73
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-eo",
+      "language_pair": "es-eo",
+      "downloads": 58,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-es",
+      "language_pair": "es-es",
+      "downloads": 356,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-et",
+      "language_pair": "es-et",
+      "downloads": 42,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-eu",
+      "language_pair": "es-eu",
+      "downloads": 129,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-fi",
+      "language_pair": "es-fi",
+      "downloads": 49,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-fj",
+      "language_pair": "es-fj",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-fr",
+      "language_pair": "es-fr",
+      "downloads": 21172,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-gaa",
+      "language_pair": "es-gaa",
+      "downloads": 83,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-gil",
+      "language_pair": "es-gil",
+      "downloads": 53,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-gl",
+      "language_pair": "es-gl",
+      "downloads": 312,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-guw",
+      "language_pair": "es-guw",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-ha",
+      "language_pair": "es-ha",
+      "downloads": 34,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-he",
+      "language_pair": "es-he",
+      "downloads": 139,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-hil",
+      "language_pair": "es-hil",
+      "downloads": 83,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-ho",
+      "language_pair": "es-ho",
+      "downloads": 40,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-hr",
+      "language_pair": "es-hr",
+      "downloads": 40,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-ht",
+      "language_pair": "es-ht",
+      "downloads": 34,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-id",
+      "language_pair": "es-id",
+      "downloads": 171,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-ig",
+      "language_pair": "es-ig",
+      "downloads": 62,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-ilo",
+      "language_pair": "es-ilo",
+      "downloads": 38,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-is",
+      "language_pair": "es-is",
+      "downloads": 138,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-iso",
+      "language_pair": "es-iso",
+      "downloads": 40,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-it",
+      "language_pair": "es-it",
+      "downloads": 691,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-kg",
+      "language_pair": "es-kg",
+      "downloads": 61,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-ln",
+      "language_pair": "es-ln",
+      "downloads": 43,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-loz",
+      "language_pair": "es-loz",
+      "downloads": 45,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-lt",
+      "language_pair": "es-lt",
+      "downloads": 74,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-lua",
+      "language_pair": "es-lua",
+      "downloads": 59,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-lus",
+      "language_pair": "es-lus",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-mfs",
+      "language_pair": "es-mfs",
+      "downloads": 58,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-mk",
+      "language_pair": "es-mk",
+      "downloads": 64,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-mt",
+      "language_pair": "es-mt",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-niu",
+      "language_pair": "es-niu",
+      "downloads": 47,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-nl",
+      "language_pair": "es-nl",
+      "downloads": 116,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-no",
+      "language_pair": "es-no",
+      "downloads": 93,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-nso",
+      "language_pair": "es-nso",
+      "downloads": 44,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-ny",
+      "language_pair": "es-ny",
+      "downloads": 76,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-pag",
+      "language_pair": "es-pag",
+      "downloads": 58,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-pap",
+      "language_pair": "es-pap",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-pis",
+      "language_pair": "es-pis",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-pl",
+      "language_pair": "es-pl",
+      "downloads": 447,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-pon",
+      "language_pair": "es-pon",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-prl",
+      "language_pair": "es-prl",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-rn",
+      "language_pair": "es-rn",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-ro",
+      "language_pair": "es-ro",
+      "downloads": 230,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-ru",
+      "language_pair": "es-ru",
+      "downloads": 425,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-rw",
+      "language_pair": "es-rw",
+      "downloads": 38,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-sg",
+      "language_pair": "es-sg",
+      "downloads": 40,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-sl",
+      "language_pair": "es-sl",
+      "downloads": 44,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-sm",
+      "language_pair": "es-sm",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-sn",
+      "language_pair": "es-sn",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-srn",
+      "language_pair": "es-srn",
+      "downloads": 48,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-st",
+      "language_pair": "es-st",
+      "downloads": 38,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-swc",
+      "language_pair": "es-swc",
+      "downloads": 74,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-tl",
+      "language_pair": "es-tl",
+      "downloads": 59,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-tll",
+      "language_pair": "es-tll",
+      "downloads": 96,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-tn",
+      "language_pair": "es-tn",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-to",
+      "language_pair": "es-to",
+      "downloads": 42,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-tpi",
+      "language_pair": "es-tpi",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-tvl",
+      "language_pair": "es-tvl",
+      "downloads": 57,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-tw",
+      "language_pair": "es-tw",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-ty",
+      "language_pair": "es-ty",
+      "downloads": 38,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-tzo",
+      "language_pair": "es-tzo",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-uk",
+      "language_pair": "es-uk",
+      "downloads": 75,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-ve",
+      "language_pair": "es-ve",
+      "downloads": 34,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-vi",
+      "language_pair": "es-vi",
+      "downloads": 134,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-war",
+      "language_pair": "es-war",
+      "downloads": 55,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-wls",
+      "language_pair": "es-wls",
+      "downloads": 40,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-xh",
+      "language_pair": "es-xh",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-yo",
+      "language_pair": "es-yo",
+      "downloads": 34,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-yua",
+      "language_pair": "es-yua",
+      "downloads": 35,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-es-zai",
+      "language_pair": "es-zai",
+      "downloads": 44,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-et-de",
+      "language_pair": "et-de",
+      "downloads": 281,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-et-en",
+      "language_pair": "et-en",
+      "downloads": 3180,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-et-es",
+      "language_pair": "et-es",
+      "downloads": 77,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-et-fi",
+      "language_pair": "et-fi",
+      "downloads": 48,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-et-fr",
+      "language_pair": "et-fr",
+      "downloads": 40,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-et-ru",
+      "language_pair": "et-ru",
+      "downloads": 151,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-et-sv",
+      "language_pair": "et-sv",
+      "downloads": 46,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-eu-de",
+      "language_pair": "eu-de",
+      "downloads": 240,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-eu-en",
+      "language_pair": "eu-en",
+      "downloads": 3943,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-eu-es",
+      "language_pair": "eu-es",
+      "downloads": 351,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-eu-ru",
+      "language_pair": "eu-ru",
+      "downloads": 53,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-euq-en",
+      "language_pair": "euq-en",
+      "downloads": 72,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-NORWAY",
+      "language_pair": "fi-NORWAY",
+      "downloads": 48,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-ZH",
+      "language_pair": "fi-ZH",
+      "downloads": 49,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-af",
+      "language_pair": "fi-af",
+      "downloads": 35,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-bcl",
+      "language_pair": "fi-bcl",
+      "downloads": 51,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-bem",
+      "language_pair": "fi-bem",
+      "downloads": 38,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-bg",
+      "language_pair": "fi-bg",
+      "downloads": 43,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-bzs",
+      "language_pair": "fi-bzs",
+      "downloads": 35,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-ceb",
+      "language_pair": "fi-ceb",
+      "downloads": 49,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-crs",
+      "language_pair": "fi-crs",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-cs",
+      "language_pair": "fi-cs",
+      "downloads": 59,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-de",
+      "language_pair": "fi-de",
+      "downloads": 932,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-ee",
+      "language_pair": "fi-ee",
+      "downloads": 40,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-efi",
+      "language_pair": "fi-efi",
+      "downloads": 54,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-el",
+      "language_pair": "fi-el",
+      "downloads": 47,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-en",
+      "language_pair": "fi-en",
+      "downloads": 27051,
+      "likes": 4
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-eo",
+      "language_pair": "fi-eo",
+      "downloads": 51,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-es",
+      "language_pair": "fi-es",
+      "downloads": 62,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-et",
+      "language_pair": "fi-et",
+      "downloads": 54,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-fi",
+      "language_pair": "fi-fi",
+      "downloads": 66,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-fj",
+      "language_pair": "fi-fj",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-fr",
+      "language_pair": "fi-fr",
+      "downloads": 56,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-fse",
+      "language_pair": "fi-fse",
+      "downloads": 40,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-gaa",
+      "language_pair": "fi-gaa",
+      "downloads": 43,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-gil",
+      "language_pair": "fi-gil",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-guw",
+      "language_pair": "fi-guw",
+      "downloads": 41,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-ha",
+      "language_pair": "fi-ha",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-he",
+      "language_pair": "fi-he",
+      "downloads": 35,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-hil",
+      "language_pair": "fi-hil",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-ho",
+      "language_pair": "fi-ho",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-hr",
+      "language_pair": "fi-hr",
+      "downloads": 42,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-ht",
+      "language_pair": "fi-ht",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-hu",
+      "language_pair": "fi-hu",
+      "downloads": 59,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-id",
+      "language_pair": "fi-id",
+      "downloads": 46,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-ig",
+      "language_pair": "fi-ig",
+      "downloads": 53,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-ilo",
+      "language_pair": "fi-ilo",
+      "downloads": 40,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-is",
+      "language_pair": "fi-is",
+      "downloads": 43,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-iso",
+      "language_pair": "fi-iso",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-it",
+      "language_pair": "fi-it",
+      "downloads": 45,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-kg",
+      "language_pair": "fi-kg",
+      "downloads": 97,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-kqn",
+      "language_pair": "fi-kqn",
+      "downloads": 40,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-lg",
+      "language_pair": "fi-lg",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-ln",
+      "language_pair": "fi-ln",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-lu",
+      "language_pair": "fi-lu",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-lua",
+      "language_pair": "fi-lua",
+      "downloads": 33,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-lue",
+      "language_pair": "fi-lue",
+      "downloads": 58,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-lus",
+      "language_pair": "fi-lus",
+      "downloads": 66,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-lv",
+      "language_pair": "fi-lv",
+      "downloads": 94,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-mfe",
+      "language_pair": "fi-mfe",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-mg",
+      "language_pair": "fi-mg",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-mh",
+      "language_pair": "fi-mh",
+      "downloads": 34,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-mk",
+      "language_pair": "fi-mk",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-mos",
+      "language_pair": "fi-mos",
+      "downloads": 40,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-mt",
+      "language_pair": "fi-mt",
+      "downloads": 40,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-niu",
+      "language_pair": "fi-niu",
+      "downloads": 35,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-nl",
+      "language_pair": "fi-nl",
+      "downloads": 46,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-no",
+      "language_pair": "fi-no",
+      "downloads": 41,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-nso",
+      "language_pair": "fi-nso",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-ny",
+      "language_pair": "fi-ny",
+      "downloads": 35,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-pag",
+      "language_pair": "fi-pag",
+      "downloads": 33,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-pap",
+      "language_pair": "fi-pap",
+      "downloads": 64,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-pis",
+      "language_pair": "fi-pis",
+      "downloads": 85,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-pon",
+      "language_pair": "fi-pon",
+      "downloads": 56,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-ro",
+      "language_pair": "fi-ro",
+      "downloads": 66,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-ru",
+      "language_pair": "fi-ru",
+      "downloads": 216,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-run",
+      "language_pair": "fi-run",
+      "downloads": 35,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-rw",
+      "language_pair": "fi-rw",
+      "downloads": 33,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-sg",
+      "language_pair": "fi-sg",
+      "downloads": 61,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-sk",
+      "language_pair": "fi-sk",
+      "downloads": 65,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-sl",
+      "language_pair": "fi-sl",
+      "downloads": 40,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-sm",
+      "language_pair": "fi-sm",
+      "downloads": 41,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-sn",
+      "language_pair": "fi-sn",
+      "downloads": 34,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-sq",
+      "language_pair": "fi-sq",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-srn",
+      "language_pair": "fi-srn",
+      "downloads": 54,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-st",
+      "language_pair": "fi-st",
+      "downloads": 45,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-sv",
+      "language_pair": "fi-sv",
+      "downloads": 192,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-sw",
+      "language_pair": "fi-sw",
+      "downloads": 59,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-swc",
+      "language_pair": "fi-swc",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-tiv",
+      "language_pair": "fi-tiv",
+      "downloads": 32,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-tll",
+      "language_pair": "fi-tll",
+      "downloads": 42,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-tn",
+      "language_pair": "fi-tn",
+      "downloads": 38,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-to",
+      "language_pair": "fi-to",
+      "downloads": 46,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-toi",
+      "language_pair": "fi-toi",
+      "downloads": 52,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-tpi",
+      "language_pair": "fi-tpi",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-tr",
+      "language_pair": "fi-tr",
+      "downloads": 53,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-ts",
+      "language_pair": "fi-ts",
+      "downloads": 35,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-tvl",
+      "language_pair": "fi-tvl",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-tw",
+      "language_pair": "fi-tw",
+      "downloads": 72,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-ty",
+      "language_pair": "fi-ty",
+      "downloads": 40,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-uk",
+      "language_pair": "fi-uk",
+      "downloads": 67,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-ve",
+      "language_pair": "fi-ve",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-war",
+      "language_pair": "fi-war",
+      "downloads": 65,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-wls",
+      "language_pair": "fi-wls",
+      "downloads": 34,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-xh",
+      "language_pair": "fi-xh",
+      "downloads": 35,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-yap",
+      "language_pair": "fi-yap",
+      "downloads": 61,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-yo",
+      "language_pair": "fi-yo",
+      "downloads": 34,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi-zne",
+      "language_pair": "fi-zne",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fi_nb_no_nn_ru_sv_en-SAMI",
+      "language_pair": "fi_nb_no_nn_ru_sv_en-SAMI",
+      "downloads": 79,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fiu-en",
+      "language_pair": "fiu-en",
+      "downloads": 78,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fiu-fiu",
+      "language_pair": "fiu-fiu",
+      "downloads": 34,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fj-en",
+      "language_pair": "fj-en",
+      "downloads": 68,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fj-fr",
+      "language_pair": "fj-fr",
+      "downloads": 45,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-af",
+      "language_pair": "fr-af",
+      "downloads": 38,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-ar",
+      "language_pair": "fr-ar",
+      "downloads": 1104,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-ase",
+      "language_pair": "fr-ase",
+      "downloads": 80,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-bcl",
+      "language_pair": "fr-bcl",
+      "downloads": 62,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-bem",
+      "language_pair": "fr-bem",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-ber",
+      "language_pair": "fr-ber",
+      "downloads": 50,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-bg",
+      "language_pair": "fr-bg",
+      "downloads": 51,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-bi",
+      "language_pair": "fr-bi",
+      "downloads": 53,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-bzs",
+      "language_pair": "fr-bzs",
+      "downloads": 34,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-ca",
+      "language_pair": "fr-ca",
+      "downloads": 53,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-ceb",
+      "language_pair": "fr-ceb",
+      "downloads": 38,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-crs",
+      "language_pair": "fr-crs",
+      "downloads": 34,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-de",
+      "language_pair": "fr-de",
+      "downloads": 3593,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-ee",
+      "language_pair": "fr-ee",
+      "downloads": 41,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-efi",
+      "language_pair": "fr-efi",
+      "downloads": 33,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-el",
+      "language_pair": "fr-el",
+      "downloads": 82,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-eo",
+      "language_pair": "fr-eo",
+      "downloads": 45,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-es",
+      "language_pair": "fr-es",
+      "downloads": 21689,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-fj",
+      "language_pair": "fr-fj",
+      "downloads": 59,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-gaa",
+      "language_pair": "fr-gaa",
+      "downloads": 47,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-gil",
+      "language_pair": "fr-gil",
+      "downloads": 35,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-guw",
+      "language_pair": "fr-guw",
+      "downloads": 76,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-ha",
+      "language_pair": "fr-ha",
+      "downloads": 44,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-he",
+      "language_pair": "fr-he",
+      "downloads": 153,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-hil",
+      "language_pair": "fr-hil",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-ho",
+      "language_pair": "fr-ho",
+      "downloads": 61,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-hr",
+      "language_pair": "fr-hr",
+      "downloads": 41,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-ht",
+      "language_pair": "fr-ht",
+      "downloads": 43,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-hu",
+      "language_pair": "fr-hu",
+      "downloads": 80,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-id",
+      "language_pair": "fr-id",
+      "downloads": 79,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-ig",
+      "language_pair": "fr-ig",
+      "downloads": 38,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-ilo",
+      "language_pair": "fr-ilo",
+      "downloads": 54,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-iso",
+      "language_pair": "fr-iso",
+      "downloads": 56,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-kg",
+      "language_pair": "fr-kg",
+      "downloads": 40,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-kqn",
+      "language_pair": "fr-kqn",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-kwy",
+      "language_pair": "fr-kwy",
+      "downloads": 34,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-lg",
+      "language_pair": "fr-lg",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-ln",
+      "language_pair": "fr-ln",
+      "downloads": 60,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-loz",
+      "language_pair": "fr-loz",
+      "downloads": 49,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-lu",
+      "language_pair": "fr-lu",
+      "downloads": 42,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-lua",
+      "language_pair": "fr-lua",
+      "downloads": 41,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-lue",
+      "language_pair": "fr-lue",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-lus",
+      "language_pair": "fr-lus",
+      "downloads": 43,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-mfe",
+      "language_pair": "fr-mfe",
+      "downloads": 62,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-mh",
+      "language_pair": "fr-mh",
+      "downloads": 69,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-mos",
+      "language_pair": "fr-mos",
+      "downloads": 62,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-ms",
+      "language_pair": "fr-ms",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-mt",
+      "language_pair": "fr-mt",
+      "downloads": 58,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-niu",
+      "language_pair": "fr-niu",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-no",
+      "language_pair": "fr-no",
+      "downloads": 46,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-nso",
+      "language_pair": "fr-nso",
+      "downloads": 42,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-ny",
+      "language_pair": "fr-ny",
+      "downloads": 53,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-pag",
+      "language_pair": "fr-pag",
+      "downloads": 41,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-pap",
+      "language_pair": "fr-pap",
+      "downloads": 43,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-pis",
+      "language_pair": "fr-pis",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-pl",
+      "language_pair": "fr-pl",
+      "downloads": 181,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-pon",
+      "language_pair": "fr-pon",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-rnd",
+      "language_pair": "fr-rnd",
+      "downloads": 52,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-ro",
+      "language_pair": "fr-ro",
+      "downloads": 115,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-ru",
+      "language_pair": "fr-ru",
+      "downloads": 406,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-run",
+      "language_pair": "fr-run",
+      "downloads": 40,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-rw",
+      "language_pair": "fr-rw",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-sg",
+      "language_pair": "fr-sg",
+      "downloads": 65,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-sk",
+      "language_pair": "fr-sk",
+      "downloads": 41,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-sl",
+      "language_pair": "fr-sl",
+      "downloads": 42,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-sm",
+      "language_pair": "fr-sm",
+      "downloads": 75,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-sn",
+      "language_pair": "fr-sn",
+      "downloads": 54,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-srn",
+      "language_pair": "fr-srn",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-st",
+      "language_pair": "fr-st",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-sv",
+      "language_pair": "fr-sv",
+      "downloads": 55,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-swc",
+      "language_pair": "fr-swc",
+      "downloads": 64,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-tiv",
+      "language_pair": "fr-tiv",
+      "downloads": 41,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-tl",
+      "language_pair": "fr-tl",
+      "downloads": 44,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-tll",
+      "language_pair": "fr-tll",
+      "downloads": 64,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-tn",
+      "language_pair": "fr-tn",
+      "downloads": 41,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-to",
+      "language_pair": "fr-to",
+      "downloads": 47,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-tpi",
+      "language_pair": "fr-tpi",
+      "downloads": 35,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-ts",
+      "language_pair": "fr-ts",
+      "downloads": 38,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-tum",
+      "language_pair": "fr-tum",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-tvl",
+      "language_pair": "fr-tvl",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-tw",
+      "language_pair": "fr-tw",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-ty",
+      "language_pair": "fr-ty",
+      "downloads": 55,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-uk",
+      "language_pair": "fr-uk",
+      "downloads": 89,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-ve",
+      "language_pair": "fr-ve",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-vi",
+      "language_pair": "fr-vi",
+      "downloads": 91,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-war",
+      "language_pair": "fr-war",
+      "downloads": 35,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-wls",
+      "language_pair": "fr-wls",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-xh",
+      "language_pair": "fr-xh",
+      "downloads": 42,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-yap",
+      "language_pair": "fr-yap",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-yo",
+      "language_pair": "fr-yo",
+      "downloads": 41,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fr-zne",
+      "language_pair": "fr-zne",
+      "downloads": 55,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-fse-fi",
+      "language_pair": "fse-fi",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ga-en",
+      "language_pair": "ga-en",
+      "downloads": 1240,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-gaa-de",
+      "language_pair": "gaa-de",
+      "downloads": 41,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-gaa-en",
+      "language_pair": "gaa-en",
+      "downloads": 86,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-gaa-es",
+      "language_pair": "gaa-es",
+      "downloads": 42,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-gaa-fi",
+      "language_pair": "gaa-fi",
+      "downloads": 50,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-gaa-fr",
+      "language_pair": "gaa-fr",
+      "downloads": 40,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-gaa-sv",
+      "language_pair": "gaa-sv",
+      "downloads": 43,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-gem-en",
+      "language_pair": "gem-en",
+      "downloads": 59,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-gem-gem",
+      "language_pair": "gem-gem",
+      "downloads": 504,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-gil-en",
+      "language_pair": "gil-en",
+      "downloads": 84,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-gil-es",
+      "language_pair": "gil-es",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-gil-fi",
+      "language_pair": "gil-fi",
+      "downloads": 34,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-gil-fr",
+      "language_pair": "gil-fr",
+      "downloads": 54,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-gil-sv",
+      "language_pair": "gil-sv",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-gl-en",
+      "language_pair": "gl-en",
+      "downloads": 293,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-gl-es",
+      "language_pair": "gl-es",
+      "downloads": 86,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-gl-pt",
+      "language_pair": "gl-pt",
+      "downloads": 58,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-gmq-en",
+      "language_pair": "gmq-en",
+      "downloads": 775,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-gmq-gmq",
+      "language_pair": "gmq-gmq",
+      "downloads": 41,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-gmw-en",
+      "language_pair": "gmw-en",
+      "downloads": 62,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-gmw-gmw",
+      "language_pair": "gmw-gmw",
+      "downloads": 63,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-grk-en",
+      "language_pair": "grk-en",
+      "downloads": 8864,
+      "likes": 3
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-guw-de",
+      "language_pair": "guw-de",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-guw-en",
+      "language_pair": "guw-en",
+      "downloads": 137,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-guw-es",
+      "language_pair": "guw-es",
+      "downloads": 35,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-guw-fi",
+      "language_pair": "guw-fi",
+      "downloads": 90,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-guw-fr",
+      "language_pair": "guw-fr",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-guw-sv",
+      "language_pair": "guw-sv",
+      "downloads": 41,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-gv-en",
+      "language_pair": "gv-en",
+      "downloads": 78,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ha-en",
+      "language_pair": "ha-en",
+      "downloads": 155,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ha-es",
+      "language_pair": "ha-es",
+      "downloads": 43,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ha-fi",
+      "language_pair": "ha-fi",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ha-fr",
+      "language_pair": "ha-fr",
+      "downloads": 38,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ha-sv",
+      "language_pair": "ha-sv",
+      "downloads": 33,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-he-ar",
+      "language_pair": "he-ar",
+      "downloads": 642,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-he-de",
+      "language_pair": "he-de",
+      "downloads": 167,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-he-eo",
+      "language_pair": "he-eo",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-he-es",
+      "language_pair": "he-es",
+      "downloads": 130,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-he-fi",
+      "language_pair": "he-fi",
+      "downloads": 40,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-he-fr",
+      "language_pair": "he-fr",
+      "downloads": 0,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-he-it",
+      "language_pair": "he-it",
+      "downloads": 85,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-he-ru",
+      "language_pair": "he-ru",
+      "downloads": 115,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-he-sv",
+      "language_pair": "he-sv",
+      "downloads": 38,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-he-uk",
+      "language_pair": "he-uk",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-hi-en",
+      "language_pair": "hi-en",
+      "downloads": 22542,
+      "likes": 11
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-hi-ur",
+      "language_pair": "hi-ur",
+      "downloads": 147,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-hil-de",
+      "language_pair": "hil-de",
+      "downloads": 64,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-hil-en",
+      "language_pair": "hil-en",
+      "downloads": 90,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-hil-fi",
+      "language_pair": "hil-fi",
+      "downloads": 60,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ho-en",
+      "language_pair": "ho-en",
+      "downloads": 54,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-hr-es",
+      "language_pair": "hr-es",
+      "downloads": 90,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-hr-fi",
+      "language_pair": "hr-fi",
+      "downloads": 45,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-hr-fr",
+      "language_pair": "hr-fr",
+      "downloads": 66,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-hr-sv",
+      "language_pair": "hr-sv",
+      "downloads": 45,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ht-en",
+      "language_pair": "ht-en",
+      "downloads": 160,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ht-es",
+      "language_pair": "ht-es",
+      "downloads": 38,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ht-fi",
+      "language_pair": "ht-fi",
+      "downloads": 48,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ht-fr",
+      "language_pair": "ht-fr",
+      "downloads": 42,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ht-sv",
+      "language_pair": "ht-sv",
+      "downloads": 32,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-hu-de",
+      "language_pair": "hu-de",
+      "downloads": 674,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-hu-en",
+      "language_pair": "hu-en",
+      "downloads": 6116,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-hu-eo",
+      "language_pair": "hu-eo",
+      "downloads": 36,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-hu-fi",
+      "language_pair": "hu-fi",
+      "downloads": 41,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-hu-fr",
+      "language_pair": "hu-fr",
+      "downloads": 52,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-hu-sv",
+      "language_pair": "hu-sv",
+      "downloads": 83,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-hu-uk",
+      "language_pair": "hu-uk",
+      "downloads": 46,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-hy-en",
+      "language_pair": "hy-en",
+      "downloads": 336,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-hy-ru",
+      "language_pair": "hy-ru",
+      "downloads": 46,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-id-es",
+      "language_pair": "id-es",
+      "downloads": 137,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-id-fi",
+      "language_pair": "id-fi",
+      "downloads": 86,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-id-fr",
+      "language_pair": "id-fr",
+      "downloads": 385,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-id-sv",
+      "language_pair": "id-sv",
+      "downloads": 43,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ig-de",
+      "language_pair": "ig-de",
+      "downloads": 66,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ig-en",
+      "language_pair": "ig-en",
+      "downloads": 112,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ig-es",
+      "language_pair": "ig-es",
+      "downloads": 53,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ig-fi",
+      "language_pair": "ig-fi",
+      "downloads": 62,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ig-fr",
+      "language_pair": "ig-fr",
+      "downloads": 38,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ig-sv",
+      "language_pair": "ig-sv",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-iir-en",
+      "language_pair": "iir-en",
+      "downloads": 155,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-iir-iir",
+      "language_pair": "iir-iir",
+      "downloads": 45,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ilo-de",
+      "language_pair": "ilo-de",
+      "downloads": 214,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ilo-en",
+      "language_pair": "ilo-en",
+      "downloads": 89,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ilo-es",
+      "language_pair": "ilo-es",
+      "downloads": 35,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ilo-fi",
+      "language_pair": "ilo-fi",
+      "downloads": 45,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ilo-sv",
+      "language_pair": "ilo-sv",
+      "downloads": 38,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-inc-en",
+      "language_pair": "inc-en",
+      "downloads": 97,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-inc-inc",
+      "language_pair": "inc-inc",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ine-en",
+      "language_pair": "ine-en",
+      "downloads": 1558,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ine-ine",
+      "language_pair": "ine-ine",
+      "downloads": 38,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-is-de",
+      "language_pair": "is-de",
+      "downloads": 75,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-is-en",
+      "language_pair": "is-en",
+      "downloads": 3540,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-is-eo",
+      "language_pair": "is-eo",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-is-es",
+      "language_pair": "is-es",
+      "downloads": 80,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-is-fi",
+      "language_pair": "is-fi",
+      "downloads": 50,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-is-fr",
+      "language_pair": "is-fr",
+      "downloads": 40,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-is-it",
+      "language_pair": "is-it",
+      "downloads": 62,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-is-sv",
+      "language_pair": "is-sv",
+      "downloads": 43,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-iso-en",
+      "language_pair": "iso-en",
+      "downloads": 57,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-iso-es",
+      "language_pair": "iso-es",
+      "downloads": 59,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-iso-fi",
+      "language_pair": "iso-fi",
+      "downloads": 34,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-iso-fr",
+      "language_pair": "iso-fr",
+      "downloads": 33,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-iso-sv",
+      "language_pair": "iso-sv",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-it-ar",
+      "language_pair": "it-ar",
+      "downloads": 104,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-it-bg",
+      "language_pair": "it-bg",
+      "downloads": 53,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-it-ca",
+      "language_pair": "it-ca",
+      "downloads": 47,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-it-de",
+      "language_pair": "it-de",
+      "downloads": 904,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-it-en",
+      "language_pair": "it-en",
+      "downloads": 187720,
+      "likes": 16
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-it-eo",
+      "language_pair": "it-eo",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-it-es",
+      "language_pair": "it-es",
+      "downloads": 659,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-it-fr",
+      "language_pair": "it-fr",
+      "downloads": 3737,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-it-is",
+      "language_pair": "it-is",
+      "downloads": 63,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-it-lt",
+      "language_pair": "it-lt",
+      "downloads": 35,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-it-ms",
+      "language_pair": "it-ms",
+      "downloads": 35,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-it-sv",
+      "language_pair": "it-sv",
+      "downloads": 47,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-it-uk",
+      "language_pair": "it-uk",
+      "downloads": 49,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-it-vi",
+      "language_pair": "it-vi",
+      "downloads": 38,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-itc-en",
+      "language_pair": "itc-en",
+      "downloads": 66,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-itc-itc",
+      "language_pair": "itc-itc",
+      "downloads": 79,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ja-ar",
+      "language_pair": "ja-ar",
+      "downloads": 70,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ja-bg",
+      "language_pair": "ja-bg",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ja-da",
+      "language_pair": "ja-da",
+      "downloads": 40,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ja-de",
+      "language_pair": "ja-de",
+      "downloads": 224,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ja-en",
+      "language_pair": "ja-en",
+      "downloads": 66435,
+      "likes": 62
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ja-es",
+      "language_pair": "ja-es",
+      "downloads": 863,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ja-fi",
+      "language_pair": "ja-fi",
+      "downloads": 45,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ja-fr",
+      "language_pair": "ja-fr",
+      "downloads": 1153,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ja-he",
+      "language_pair": "ja-he",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ja-hu",
+      "language_pair": "ja-hu",
+      "downloads": 42,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ja-it",
+      "language_pair": "ja-it",
+      "downloads": 113,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ja-ms",
+      "language_pair": "ja-ms",
+      "downloads": 58,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ja-nl",
+      "language_pair": "ja-nl",
+      "downloads": 41,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ja-pl",
+      "language_pair": "ja-pl",
+      "downloads": 57,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ja-pt",
+      "language_pair": "ja-pt",
+      "downloads": 290,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ja-ru",
+      "language_pair": "ja-ru",
+      "downloads": 302,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ja-sh",
+      "language_pair": "ja-sh",
+      "downloads": 60,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ja-sv",
+      "language_pair": "ja-sv",
+      "downloads": 44,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ja-tr",
+      "language_pair": "ja-tr",
+      "downloads": 184,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ja-vi",
+      "language_pair": "ja-vi",
+      "downloads": 371,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-jap-en",
+      "language_pair": "jap-en",
+      "downloads": 6963,
+      "likes": 8
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ka-en",
+      "language_pair": "ka-en",
+      "downloads": 1137,
+      "likes": 3
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ka-ru",
+      "language_pair": "ka-ru",
+      "downloads": 71,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-kab-en",
+      "language_pair": "kab-en",
+      "downloads": 70,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-kg-en",
+      "language_pair": "kg-en",
+      "downloads": 71,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-kg-es",
+      "language_pair": "kg-es",
+      "downloads": 34,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-kg-fr",
+      "language_pair": "kg-fr",
+      "downloads": 48,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-kg-sv",
+      "language_pair": "kg-sv",
+      "downloads": 34,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-kj-en",
+      "language_pair": "kj-en",
+      "downloads": 71,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-kl-en",
+      "language_pair": "kl-en",
+      "downloads": 79,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ko-de",
+      "language_pair": "ko-de",
+      "downloads": 212,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ko-en",
+      "language_pair": "ko-en",
+      "downloads": 24156,
+      "likes": 59
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ko-es",
+      "language_pair": "ko-es",
+      "downloads": 193,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ko-fi",
+      "language_pair": "ko-fi",
+      "downloads": 41,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ko-fr",
+      "language_pair": "ko-fr",
+      "downloads": 200,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ko-hu",
+      "language_pair": "ko-hu",
+      "downloads": 58,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ko-ru",
+      "language_pair": "ko-ru",
+      "downloads": 278,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ko-sv",
+      "language_pair": "ko-sv",
+      "downloads": 42,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-kqn-en",
+      "language_pair": "kqn-en",
+      "downloads": 50,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-kqn-es",
+      "language_pair": "kqn-es",
+      "downloads": 58,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-kqn-fr",
+      "language_pair": "kqn-fr",
+      "downloads": 33,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-kqn-sv",
+      "language_pair": "kqn-sv",
+      "downloads": 32,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-kwn-en",
+      "language_pair": "kwn-en",
+      "downloads": 68,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-kwy-en",
+      "language_pair": "kwy-en",
+      "downloads": 50,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-kwy-fr",
+      "language_pair": "kwy-fr",
+      "downloads": 33,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-kwy-sv",
+      "language_pair": "kwy-sv",
+      "downloads": 32,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lg-en",
+      "language_pair": "lg-en",
+      "downloads": 888,
+      "likes": 2
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lg-es",
+      "language_pair": "lg-es",
+      "downloads": 38,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lg-fi",
+      "language_pair": "lg-fi",
+      "downloads": 54,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lg-fr",
+      "language_pair": "lg-fr",
+      "downloads": 33,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lg-sv",
+      "language_pair": "lg-sv",
+      "downloads": 34,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ln-de",
+      "language_pair": "ln-de",
+      "downloads": 42,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ln-en",
+      "language_pair": "ln-en",
+      "downloads": 50,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ln-es",
+      "language_pair": "ln-es",
+      "downloads": 34,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ln-fr",
+      "language_pair": "ln-fr",
+      "downloads": 35,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-loz-de",
+      "language_pair": "loz-de",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-loz-en",
+      "language_pair": "loz-en",
+      "downloads": 62,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-loz-es",
+      "language_pair": "loz-es",
+      "downloads": 43,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-loz-fi",
+      "language_pair": "loz-fi",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-loz-fr",
+      "language_pair": "loz-fr",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-loz-sv",
+      "language_pair": "loz-sv",
+      "downloads": 47,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lt-de",
+      "language_pair": "lt-de",
+      "downloads": 283,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lt-eo",
+      "language_pair": "lt-eo",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lt-es",
+      "language_pair": "lt-es",
+      "downloads": 148,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lt-fr",
+      "language_pair": "lt-fr",
+      "downloads": 52,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lt-it",
+      "language_pair": "lt-it",
+      "downloads": 62,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lt-pl",
+      "language_pair": "lt-pl",
+      "downloads": 60,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lt-ru",
+      "language_pair": "lt-ru",
+      "downloads": 86,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lt-sv",
+      "language_pair": "lt-sv",
+      "downloads": 50,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lt-tr",
+      "language_pair": "lt-tr",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lu-en",
+      "language_pair": "lu-en",
+      "downloads": 48,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lu-es",
+      "language_pair": "lu-es",
+      "downloads": 44,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lu-fi",
+      "language_pair": "lu-fi",
+      "downloads": 62,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lu-fr",
+      "language_pair": "lu-fr",
+      "downloads": 38,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lu-sv",
+      "language_pair": "lu-sv",
+      "downloads": 34,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lua-en",
+      "language_pair": "lua-en",
+      "downloads": 68,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lua-es",
+      "language_pair": "lua-es",
+      "downloads": 47,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lua-fi",
+      "language_pair": "lua-fi",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lua-fr",
+      "language_pair": "lua-fr",
+      "downloads": 44,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lua-sv",
+      "language_pair": "lua-sv",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lue-en",
+      "language_pair": "lue-en",
+      "downloads": 74,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lue-es",
+      "language_pair": "lue-es",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lue-fi",
+      "language_pair": "lue-fi",
+      "downloads": 55,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lue-fr",
+      "language_pair": "lue-fr",
+      "downloads": 33,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lue-sv",
+      "language_pair": "lue-sv",
+      "downloads": 52,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lun-en",
+      "language_pair": "lun-en",
+      "downloads": 42,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-luo-en",
+      "language_pair": "luo-en",
+      "downloads": 45,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lus-en",
+      "language_pair": "lus-en",
+      "downloads": 102,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lus-es",
+      "language_pair": "lus-es",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lus-fi",
+      "language_pair": "lus-fi",
+      "downloads": 54,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lus-fr",
+      "language_pair": "lus-fr",
+      "downloads": 35,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lus-sv",
+      "language_pair": "lus-sv",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lv-en",
+      "language_pair": "lv-en",
+      "downloads": 1847,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lv-es",
+      "language_pair": "lv-es",
+      "downloads": 76,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lv-fi",
+      "language_pair": "lv-fi",
+      "downloads": 35,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lv-fr",
+      "language_pair": "lv-fr",
+      "downloads": 47,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lv-ru",
+      "language_pair": "lv-ru",
+      "downloads": 79,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-lv-sv",
+      "language_pair": "lv-sv",
+      "downloads": 55,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-mfe-en",
+      "language_pair": "mfe-en",
+      "downloads": 49,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-mfe-es",
+      "language_pair": "mfe-es",
+      "downloads": 51,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-mfs-es",
+      "language_pair": "mfs-es",
+      "downloads": 44,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-mg-en",
+      "language_pair": "mg-en",
+      "downloads": 301,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-mg-es",
+      "language_pair": "mg-es",
+      "downloads": 34,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-mh-en",
+      "language_pair": "mh-en",
+      "downloads": 50,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-mh-es",
+      "language_pair": "mh-es",
+      "downloads": 68,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-mh-fi",
+      "language_pair": "mh-fi",
+      "downloads": 50,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-mk-en",
+      "language_pair": "mk-en",
+      "downloads": 719,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-mk-es",
+      "language_pair": "mk-es",
+      "downloads": 53,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-mk-fi",
+      "language_pair": "mk-fi",
+      "downloads": 40,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-mk-fr",
+      "language_pair": "mk-fr",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-mkh-en",
+      "language_pair": "mkh-en",
+      "downloads": 83,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ml-en",
+      "language_pair": "ml-en",
+      "downloads": 471,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-mos-en",
+      "language_pair": "mos-en",
+      "downloads": 51,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-mr-en",
+      "language_pair": "mr-en",
+      "downloads": 1665,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ms-de",
+      "language_pair": "ms-de",
+      "downloads": 495,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ms-fr",
+      "language_pair": "ms-fr",
+      "downloads": 45,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ms-it",
+      "language_pair": "ms-it",
+      "downloads": 43,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ms-ms",
+      "language_pair": "ms-ms",
+      "downloads": 34,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-mt-en",
+      "language_pair": "mt-en",
+      "downloads": 371,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-mt-es",
+      "language_pair": "mt-es",
+      "downloads": 82,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-mt-fi",
+      "language_pair": "mt-fi",
+      "downloads": 33,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-mt-fr",
+      "language_pair": "mt-fr",
+      "downloads": 45,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-mt-sv",
+      "language_pair": "mt-sv",
+      "downloads": 76,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-mul-en",
+      "language_pair": "mul-en",
+      "downloads": 57412,
+      "likes": 81
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ng-en",
+      "language_pair": "ng-en",
+      "downloads": 78,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-nic-en",
+      "language_pair": "nic-en",
+      "downloads": 65,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-niu-de",
+      "language_pair": "niu-de",
+      "downloads": 31,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-niu-en",
+      "language_pair": "niu-en",
+      "downloads": 46,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-niu-es",
+      "language_pair": "niu-es",
+      "downloads": 34,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-niu-fi",
+      "language_pair": "niu-fi",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-niu-fr",
+      "language_pair": "niu-fr",
+      "downloads": 32,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-niu-sv",
+      "language_pair": "niu-sv",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-nl-af",
+      "language_pair": "nl-af",
+      "downloads": 147,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-nl-ca",
+      "language_pair": "nl-ca",
+      "downloads": 40,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-nl-en",
+      "language_pair": "nl-en",
+      "downloads": 353317,
+      "likes": 9
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-nl-eo",
+      "language_pair": "nl-eo",
+      "downloads": 33,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-nl-es",
+      "language_pair": "nl-es",
+      "downloads": 150,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-nl-fi",
+      "language_pair": "nl-fi",
+      "downloads": 78,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-nl-fr",
+      "language_pair": "nl-fr",
+      "downloads": 7892,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-nl-no",
+      "language_pair": "nl-no",
+      "downloads": 58,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-nl-sv",
+      "language_pair": "nl-sv",
+      "downloads": 47,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-nl-uk",
+      "language_pair": "nl-uk",
+      "downloads": 47,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-no-da",
+      "language_pair": "no-da",
+      "downloads": 41,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-no-de",
+      "language_pair": "no-de",
+      "downloads": 382,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-no-es",
+      "language_pair": "no-es",
+      "downloads": 80,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-no-fi",
+      "language_pair": "no-fi",
+      "downloads": 73,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-no-fr",
+      "language_pair": "no-fr",
+      "downloads": 69,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-no-nl",
+      "language_pair": "no-nl",
+      "downloads": 70,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-no-no",
+      "language_pair": "no-no",
+      "downloads": 50,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-no-pl",
+      "language_pair": "no-pl",
+      "downloads": 61,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-no-ru",
+      "language_pair": "no-ru",
+      "downloads": 39,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-no-sv",
+      "language_pair": "no-sv",
+      "downloads": 49,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-no-uk",
+      "language_pair": "no-uk",
+      "downloads": 214,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-nso-de",
+      "language_pair": "nso-de",
+      "downloads": 45,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-nso-en",
+      "language_pair": "nso-en",
+      "downloads": 52,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-nso-es",
+      "language_pair": "nso-es",
+      "downloads": 54,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-nso-fi",
+      "language_pair": "nso-fi",
+      "downloads": 33,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-nso-fr",
+      "language_pair": "nso-fr",
+      "downloads": 65,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-nso-sv",
+      "language_pair": "nso-sv",
+      "downloads": 66,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ny-de",
+      "language_pair": "ny-de",
+      "downloads": 38,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ny-en",
+      "language_pair": "ny-en",
+      "downloads": 211,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-ny-es",
+      "language_pair": "ny-es",
+      "downloads": 58,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-nyk-en",
+      "language_pair": "nyk-en",
+      "downloads": 45,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-om-en",
+      "language_pair": "om-en",
+      "downloads": 49,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pa-en",
+      "language_pair": "pa-en",
+      "downloads": 344,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pag-de",
+      "language_pair": "pag-de",
+      "downloads": 35,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pag-en",
+      "language_pair": "pag-en",
+      "downloads": 63,
+      "likes": 1
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pag-es",
+      "language_pair": "pag-es",
+      "downloads": 35,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pag-fi",
+      "language_pair": "pag-fi",
+      "downloads": 32,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pag-sv",
+      "language_pair": "pag-sv",
+      "downloads": 35,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pap-de",
+      "language_pair": "pap-de",
+      "downloads": 211,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pap-en",
+      "language_pair": "pap-en",
+      "downloads": 70,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pap-es",
+      "language_pair": "pap-es",
+      "downloads": 32,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pap-fi",
+      "language_pair": "pap-fi",
+      "downloads": 36,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pap-fr",
+      "language_pair": "pap-fr",
+      "downloads": 47,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-phi-en",
+      "language_pair": "phi-en",
+      "downloads": 47,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pis-en",
+      "language_pair": "pis-en",
+      "downloads": 52,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pis-es",
+      "language_pair": "pis-es",
+      "downloads": 72,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pis-fi",
+      "language_pair": "pis-fi",
+      "downloads": 46,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pis-fr",
+      "language_pair": "pis-fr",
+      "downloads": 37,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pis-sv",
+      "language_pair": "pis-sv",
+      "downloads": 34,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pl-ar",
+      "language_pair": "pl-ar",
+      "downloads": 47,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pl-de",
+      "language_pair": "pl-de",
+      "downloads": 840,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pl-en",
+      "language_pair": "pl-en",
+      "downloads": 57884,
+      "likes": 22
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pl-eo",
+      "language_pair": "pl-eo",
+      "downloads": 30,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pl-es",
+      "language_pair": "pl-es",
+      "downloads": 384,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pl-fr",
+      "language_pair": "pl-fr",
+      "downloads": 276,
+      "likes": 3
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pl-lt",
+      "language_pair": "pl-lt",
+      "downloads": 40,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pl-no",
+      "language_pair": "pl-no",
+      "downloads": 91,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pl-sv",
+      "language_pair": "pl-sv",
+      "downloads": 44,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pl-uk",
+      "language_pair": "pl-uk",
+      "downloads": 68,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pon-en",
+      "language_pair": "pon-en",
+      "downloads": 68,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pon-es",
+      "language_pair": "pon-es",
+      "downloads": 35,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pon-fi",
+      "language_pair": "pon-fi",
+      "downloads": 34,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pon-fr",
+      "language_pair": "pon-fr",
+      "downloads": 62,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pon-sv",
+      "language_pair": "pon-sv",
+      "downloads": 66,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pqe-en",
+      "language_pair": "pqe-en",
+      "downloads": 52,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-prl-es",
+      "language_pair": "prl-es",
+      "downloads": 35,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pt-ca",
+      "language_pair": "pt-ca",
+      "downloads": 84,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pt-eo",
+      "language_pair": "pt-eo",
+      "downloads": 56,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pt-gl",
+      "language_pair": "pt-gl",
+      "downloads": 35,
+      "likes": 0
+    },
+    {
+      "model_id": "Helsinki-NLP/opus-mt-pt-tl",
+      "language_pair": "pt-tl",
+      "downloads": 34,
+      "likes": 0
+    }
+  ],
+  "pairs": [
+    "NORTH_EU-NORTH_EU",
+    "ROMANCE-en",
+    "SCANDINAVIA-SCANDINAVIA",
+    "aav-en",
+    "aed-es",
+    "af-de",
+    "af-en",
+    "af-eo",
+    "af-es",
+    "af-fi",
+    "af-fr",
+    "af-nl",
+    "af-ru",
+    "af-sv",
+    "afa-afa",
+    "afa-en",
+    "alv-en",
+    "am-sv",
+    "ar-de",
+    "ar-el",
+    "ar-en",
+    "ar-eo",
+    "ar-es",
+    "ar-fr",
+    "ar-he",
+    "ar-it",
+    "ar-pl",
+    "ar-ru",
+    "ar-tr",
+    "art-en",
+    "ase-de",
+    "ase-en",
+    "ase-es",
+    "ase-fr",
+    "ase-sv",
+    "az-en",
+    "az-es",
+    "az-tr",
+    "bat-en",
+    "bcl-de",
+    "bcl-en",
+    "bcl-es",
+    "bcl-fi",
+    "bcl-fr",
+    "bcl-sv",
+    "be-es",
+    "bem-en",
+    "bem-es",
+    "bem-fi",
+    "bem-fr",
+    "bem-sv",
+    "ber-en",
+    "ber-es",
+    "ber-fr",
+    "bg-de",
+    "bg-en",
+    "bg-eo",
+    "bg-es",
+    "bg-fi",
+    "bg-fr",
+    "bg-it",
+    "bg-ru",
+    "bg-sv",
+    "bg-tr",
+    "bg-uk",
+    "bi-en",
+    "bi-es",
+    "bi-fr",
+    "bi-sv",
+    "bn-en",
+    "bnt-en",
+    "bzs-en",
+    "bzs-es",
+    "bzs-fi",
+    "bzs-fr",
+    "bzs-sv",
+    "ca-de",
+    "ca-en",
+    "ca-es",
+    "ca-fr",
+    "ca-it",
+    "ca-nl",
+    "ca-pt",
+    "ca-uk",
+    "cau-en",
+    "ccs-en",
+    "ceb-en",
+    "ceb-es",
+    "ceb-fi",
+    "ceb-fr",
+    "ceb-sv",
+    "cel-en",
+    "chk-en",
+    "chk-es",
+    "chk-fr",
+    "chk-sv",
+    "cpf-en",
+    "cpp-cpp",
+    "cpp-en",
+    "crs-de",
+    "crs-en",
+    "crs-es",
+    "crs-fi",
+    "crs-fr",
+    "crs-sv",
+    "cs-de",
+    "cs-en",
+    "cs-eo",
+    "cs-fi",
+    "cs-fr",
+    "cs-sv",
+    "cs-uk",
+    "csg-es",
+    "csn-es",
+    "cus-en",
+    "cy-en",
+    "da-de",
+    "da-en",
+    "da-eo",
+    "da-es",
+    "da-fi",
+    "da-fr",
+    "da-no",
+    "da-ru",
+    "de-ZH",
+    "de-af",
+    "de-ar",
+    "de-ase",
+    "de-bcl",
+    "de-bg",
+    "de-bi",
+    "de-bzs",
+    "de-ca",
+    "de-crs",
+    "de-cs",
+    "de-da",
+    "de-de",
+    "de-ee",
+    "de-efi",
+    "de-el",
+    "de-en",
+    "de-eo",
+    "de-es",
+    "de-et",
+    "de-eu",
+    "de-fi",
+    "de-fj",
+    "de-fr",
+    "de-gaa",
+    "de-gil",
+    "de-guw",
+    "de-ha",
+    "de-he",
+    "de-hil",
+    "de-ho",
+    "de-hr",
+    "de-ht",
+    "de-hu",
+    "de-ig",
+    "de-ilo",
+    "de-is",
+    "de-iso",
+    "de-it",
+    "de-kg",
+    "de-ln",
+    "de-loz",
+    "de-lt",
+    "de-lua",
+    "de-ms",
+    "de-mt",
+    "de-niu",
+    "de-nl",
+    "de-no",
+    "de-nso",
+    "de-ny",
+    "de-pag",
+    "de-pap",
+    "de-pis",
+    "de-pl",
+    "de-pon",
+    "de-tl",
+    "de-uk",
+    "de-vi",
+    "dra-en",
+    "ee-de",
+    "ee-en",
+    "ee-es",
+    "ee-fi",
+    "ee-fr",
+    "ee-sv",
+    "efi-de",
+    "efi-en",
+    "efi-fi",
+    "efi-fr",
+    "efi-sv",
+    "el-ar",
+    "el-eo",
+    "el-fi",
+    "el-fr",
+    "el-sv",
+    "en-CELTIC",
+    "en-ROMANCE",
+    "en-aav",
+    "en-af",
+    "en-afa",
+    "en-alv",
+    "en-ar",
+    "en-az",
+    "en-bat",
+    "en-bcl",
+    "en-bem",
+    "en-ber",
+    "en-bg",
+    "en-bi",
+    "en-bnt",
+    "en-bzs",
+    "en-ca",
+    "en-ceb",
+    "en-cel",
+    "en-chk",
+    "en-cpf",
+    "en-cpp",
+    "en-crs",
+    "en-cs",
+    "en-cus",
+    "en-cy",
+    "en-da",
+    "en-de",
+    "en-dra",
+    "en-ee",
+    "en-efi",
+    "en-el",
+    "en-eo",
+    "en-es",
+    "en-et",
+    "en-eu",
+    "en-euq",
+    "en-fi",
+    "en-fiu",
+    "en-fj",
+    "en-fr",
+    "en-ga",
+    "en-gaa",
+    "en-gem",
+    "en-gil",
+    "en-gl",
+    "en-gmq",
+    "en-gmw",
+    "en-grk",
+    "en-guw",
+    "en-gv",
+    "en-ha",
+    "en-he",
+    "en-hi",
+    "en-hil",
+    "en-ho",
+    "en-ht",
+    "en-hu",
+    "en-hy",
+    "en-id",
+    "en-ig",
+    "en-iir",
+    "en-ilo",
+    "en-inc",
+    "en-ine",
+    "en-is",
+    "en-iso",
+    "en-it",
+    "en-itc",
+    "en-jap",
+    "en-kg",
+    "en-kj",
+    "en-kqn",
+    "en-kwn",
+    "en-kwy",
+    "en-lg",
+    "en-ln",
+    "en-loz",
+    "en-lu",
+    "en-lua",
+    "en-lue",
+    "en-lun",
+    "en-luo",
+    "en-lus",
+    "en-map",
+    "en-mfe",
+    "en-mg",
+    "en-mh",
+    "en-mk",
+    "en-mkh",
+    "en-ml",
+    "en-mos",
+    "en-mr",
+    "en-mt",
+    "en-mul",
+    "en-ng",
+    "en-nic",
+    "en-niu",
+    "en-nl",
+    "en-nso",
+    "en-ny",
+    "en-nyk",
+    "en-om",
+    "en-pag",
+    "en-pap",
+    "en-phi",
+    "en-pis",
+    "en-pon",
+    "en-poz",
+    "en-pqe",
+    "en-pqw",
+    "en-rn",
+    "en-rnd",
+    "en-ro",
+    "en-roa",
+    "en-ru",
+    "en-run",
+    "en-rw",
+    "en-sal",
+    "en-sem",
+    "en-sg",
+    "en-sit",
+    "en-sk",
+    "en-sla",
+    "en-sm",
+    "en-sn",
+    "en-sq",
+    "en-ss",
+    "en-st",
+    "en-sv",
+    "en-sw",
+    "en-swc",
+    "en-tdt",
+    "en-ti",
+    "en-tiv",
+    "en-tl",
+    "en-tll",
+    "en-tn",
+    "en-to",
+    "en-toi",
+    "en-tpi",
+    "en-trk",
+    "en-ts",
+    "en-tut",
+    "en-tvl",
+    "en-tw",
+    "en-ty",
+    "en-uk",
+    "en-umb",
+    "en-ur",
+    "en-urj",
+    "en-vi",
+    "en-xh",
+    "en-zh",
+    "en-zle",
+    "en-zls",
+    "en-zlw",
+    "en_el_es_fi-en_el_es_fi",
+    "eo-af",
+    "eo-bg",
+    "eo-cs",
+    "eo-da",
+    "eo-de",
+    "eo-el",
+    "eo-en",
+    "eo-es",
+    "eo-fi",
+    "eo-fr",
+    "eo-he",
+    "eo-hu",
+    "eo-it",
+    "eo-nl",
+    "eo-pl",
+    "eo-pt",
+    "eo-ro",
+    "eo-ru",
+    "eo-sh",
+    "eo-sv",
+    "es-NORWAY",
+    "es-aed",
+    "es-af",
+    "es-ar",
+    "es-ase",
+    "es-bcl",
+    "es-ber",
+    "es-bg",
+    "es-bi",
+    "es-bzs",
+    "es-ca",
+    "es-ceb",
+    "es-crs",
+    "es-cs",
+    "es-csg",
+    "es-csn",
+    "es-da",
+    "es-de",
+    "es-ee",
+    "es-efi",
+    "es-el",
+    "es-en",
+    "es-eo",
+    "es-es",
+    "es-et",
+    "es-eu",
+    "es-fi",
+    "es-fj",
+    "es-fr",
+    "es-gaa",
+    "es-gil",
+    "es-gl",
+    "es-guw",
+    "es-ha",
+    "es-he",
+    "es-hil",
+    "es-ho",
+    "es-hr",
+    "es-ht",
+    "es-id",
+    "es-ig",
+    "es-ilo",
+    "es-is",
+    "es-iso",
+    "es-it",
+    "es-kg",
+    "es-ln",
+    "es-loz",
+    "es-lt",
+    "es-lua",
+    "es-lus",
+    "es-mfs",
+    "es-mk",
+    "es-mt",
+    "es-niu",
+    "es-nl",
+    "es-no",
+    "es-nso",
+    "es-ny",
+    "es-pag",
+    "es-pap",
+    "es-pis",
+    "es-pl",
+    "es-pon",
+    "es-prl",
+    "es-rn",
+    "es-ro",
+    "es-ru",
+    "es-rw",
+    "es-sg",
+    "es-sl",
+    "es-sm",
+    "es-sn",
+    "es-srn",
+    "es-st",
+    "es-swc",
+    "es-tl",
+    "es-tll",
+    "es-tn",
+    "es-to",
+    "es-tpi",
+    "es-tvl",
+    "es-tw",
+    "es-ty",
+    "es-tzo",
+    "es-uk",
+    "es-ve",
+    "es-vi",
+    "es-war",
+    "es-wls",
+    "es-xh",
+    "es-yo",
+    "es-yua",
+    "es-zai",
+    "et-de",
+    "et-en",
+    "et-es",
+    "et-fi",
+    "et-fr",
+    "et-ru",
+    "et-sv",
+    "eu-de",
+    "eu-en",
+    "eu-es",
+    "eu-ru",
+    "euq-en",
+    "fi-NORWAY",
+    "fi-ZH",
+    "fi-af",
+    "fi-bcl",
+    "fi-bem",
+    "fi-bg",
+    "fi-bzs",
+    "fi-ceb",
+    "fi-crs",
+    "fi-cs",
+    "fi-de",
+    "fi-ee",
+    "fi-efi",
+    "fi-el",
+    "fi-en",
+    "fi-eo",
+    "fi-es",
+    "fi-et",
+    "fi-fi",
+    "fi-fj",
+    "fi-fr",
+    "fi-fse",
+    "fi-gaa",
+    "fi-gil",
+    "fi-guw",
+    "fi-ha",
+    "fi-he",
+    "fi-hil",
+    "fi-ho",
+    "fi-hr",
+    "fi-ht",
+    "fi-hu",
+    "fi-id",
+    "fi-ig",
+    "fi-ilo",
+    "fi-is",
+    "fi-iso",
+    "fi-it",
+    "fi-kg",
+    "fi-kqn",
+    "fi-lg",
+    "fi-ln",
+    "fi-lu",
+    "fi-lua",
+    "fi-lue",
+    "fi-lus",
+    "fi-lv",
+    "fi-mfe",
+    "fi-mg",
+    "fi-mh",
+    "fi-mk",
+    "fi-mos",
+    "fi-mt",
+    "fi-niu",
+    "fi-nl",
+    "fi-no",
+    "fi-nso",
+    "fi-ny",
+    "fi-pag",
+    "fi-pap",
+    "fi-pis",
+    "fi-pon",
+    "fi-ro",
+    "fi-ru",
+    "fi-run",
+    "fi-rw",
+    "fi-sg",
+    "fi-sk",
+    "fi-sl",
+    "fi-sm",
+    "fi-sn",
+    "fi-sq",
+    "fi-srn",
+    "fi-st",
+    "fi-sv",
+    "fi-sw",
+    "fi-swc",
+    "fi-tiv",
+    "fi-tll",
+    "fi-tn",
+    "fi-to",
+    "fi-toi",
+    "fi-tpi",
+    "fi-tr",
+    "fi-ts",
+    "fi-tvl",
+    "fi-tw",
+    "fi-ty",
+    "fi-uk",
+    "fi-ve",
+    "fi-war",
+    "fi-wls",
+    "fi-xh",
+    "fi-yap",
+    "fi-yo",
+    "fi-zne",
+    "fi_nb_no_nn_ru_sv_en-SAMI",
+    "fiu-en",
+    "fiu-fiu",
+    "fj-en",
+    "fj-fr",
+    "fr-af",
+    "fr-ar",
+    "fr-ase",
+    "fr-bcl",
+    "fr-bem",
+    "fr-ber",
+    "fr-bg",
+    "fr-bi",
+    "fr-bzs",
+    "fr-ca",
+    "fr-ceb",
+    "fr-crs",
+    "fr-de",
+    "fr-ee",
+    "fr-efi",
+    "fr-el",
+    "fr-en",
+    "fr-eo",
+    "fr-es",
+    "fr-fj",
+    "fr-gaa",
+    "fr-gil",
+    "fr-guw",
+    "fr-ha",
+    "fr-he",
+    "fr-hil",
+    "fr-ho",
+    "fr-hr",
+    "fr-ht",
+    "fr-hu",
+    "fr-id",
+    "fr-ig",
+    "fr-ilo",
+    "fr-iso",
+    "fr-kg",
+    "fr-kqn",
+    "fr-kwy",
+    "fr-lg",
+    "fr-ln",
+    "fr-loz",
+    "fr-lu",
+    "fr-lua",
+    "fr-lue",
+    "fr-lus",
+    "fr-mfe",
+    "fr-mh",
+    "fr-mos",
+    "fr-ms",
+    "fr-mt",
+    "fr-niu",
+    "fr-no",
+    "fr-nso",
+    "fr-ny",
+    "fr-pag",
+    "fr-pap",
+    "fr-pis",
+    "fr-pl",
+    "fr-pon",
+    "fr-rnd",
+    "fr-ro",
+    "fr-ru",
+    "fr-run",
+    "fr-rw",
+    "fr-sg",
+    "fr-sk",
+    "fr-sl",
+    "fr-sm",
+    "fr-sn",
+    "fr-srn",
+    "fr-st",
+    "fr-sv",
+    "fr-swc",
+    "fr-tiv",
+    "fr-tl",
+    "fr-tll",
+    "fr-tn",
+    "fr-to",
+    "fr-tpi",
+    "fr-ts",
+    "fr-tum",
+    "fr-tvl",
+    "fr-tw",
+    "fr-ty",
+    "fr-uk",
+    "fr-ve",
+    "fr-vi",
+    "fr-war",
+    "fr-wls",
+    "fr-xh",
+    "fr-yap",
+    "fr-yo",
+    "fr-zne",
+    "fse-fi",
+    "ga-en",
+    "gaa-de",
+    "gaa-en",
+    "gaa-es",
+    "gaa-fi",
+    "gaa-fr",
+    "gaa-sv",
+    "gem-en",
+    "gem-gem",
+    "gil-en",
+    "gil-es",
+    "gil-fi",
+    "gil-fr",
+    "gil-sv",
+    "gl-en",
+    "gl-es",
+    "gl-pt",
+    "gmq-en",
+    "gmq-gmq",
+    "gmw-en",
+    "gmw-gmw",
+    "grk-en",
+    "guw-de",
+    "guw-en",
+    "guw-es",
+    "guw-fi",
+    "guw-fr",
+    "guw-sv",
+    "gv-en",
+    "ha-en",
+    "ha-es",
+    "ha-fi",
+    "ha-fr",
+    "ha-sv",
+    "he-ar",
+    "he-de",
+    "he-eo",
+    "he-es",
+    "he-fi",
+    "he-fr",
+    "he-it",
+    "he-ru",
+    "he-sv",
+    "he-uk",
+    "hi-en",
+    "hi-ur",
+    "hil-de",
+    "hil-en",
+    "hil-fi",
+    "ho-en",
+    "hr-es",
+    "hr-fi",
+    "hr-fr",
+    "hr-sv",
+    "ht-en",
+    "ht-es",
+    "ht-fi",
+    "ht-fr",
+    "ht-sv",
+    "hu-de",
+    "hu-en",
+    "hu-eo",
+    "hu-fi",
+    "hu-fr",
+    "hu-sv",
+    "hu-uk",
+    "hy-en",
+    "hy-ru",
+    "id-en",
+    "id-es",
+    "id-fi",
+    "id-fr",
+    "id-sv",
+    "ig-de",
+    "ig-en",
+    "ig-es",
+    "ig-fi",
+    "ig-fr",
+    "ig-sv",
+    "iir-en",
+    "iir-iir",
+    "ilo-de",
+    "ilo-en",
+    "ilo-es",
+    "ilo-fi",
+    "ilo-sv",
+    "inc-en",
+    "inc-inc",
+    "ine-en",
+    "ine-ine",
+    "is-de",
+    "is-en",
+    "is-eo",
+    "is-es",
+    "is-fi",
+    "is-fr",
+    "is-it",
+    "is-sv",
+    "iso-en",
+    "iso-es",
+    "iso-fi",
+    "iso-fr",
+    "iso-sv",
+    "it-ar",
+    "it-bg",
+    "it-ca",
+    "it-de",
+    "it-en",
+    "it-eo",
+    "it-es",
+    "it-fr",
+    "it-is",
+    "it-lt",
+    "it-ms",
+    "it-sv",
+    "it-uk",
+    "it-vi",
+    "itc-en",
+    "itc-itc",
+    "ja-ar",
+    "ja-bg",
+    "ja-da",
+    "ja-de",
+    "ja-en",
+    "ja-es",
+    "ja-fi",
+    "ja-fr",
+    "ja-he",
+    "ja-hu",
+    "ja-it",
+    "ja-ms",
+    "ja-nl",
+    "ja-pl",
+    "ja-pt",
+    "ja-ru",
+    "ja-sh",
+    "ja-sv",
+    "ja-tr",
+    "ja-vi",
+    "jap-en",
+    "ka-en",
+    "ka-ru",
+    "kab-en",
+    "kg-en",
+    "kg-es",
+    "kg-fr",
+    "kg-sv",
+    "kj-en",
+    "kl-en",
+    "ko-de",
+    "ko-en",
+    "ko-es",
+    "ko-fi",
+    "ko-fr",
+    "ko-hu",
+    "ko-ru",
+    "ko-sv",
+    "kqn-en",
+    "kqn-es",
+    "kqn-fr",
+    "kqn-sv",
+    "kwn-en",
+    "kwy-en",
+    "kwy-fr",
+    "kwy-sv",
+    "lg-en",
+    "lg-es",
+    "lg-fi",
+    "lg-fr",
+    "lg-sv",
+    "ln-de",
+    "ln-en",
+    "ln-es",
+    "ln-fr",
+    "loz-de",
+    "loz-en",
+    "loz-es",
+    "loz-fi",
+    "loz-fr",
+    "loz-sv",
+    "lt-de",
+    "lt-eo",
+    "lt-es",
+    "lt-fr",
+    "lt-it",
+    "lt-pl",
+    "lt-ru",
+    "lt-sv",
+    "lt-tr",
+    "lu-en",
+    "lu-es",
+    "lu-fi",
+    "lu-fr",
+    "lu-sv",
+    "lua-en",
+    "lua-es",
+    "lua-fi",
+    "lua-fr",
+    "lua-sv",
+    "lue-en",
+    "lue-es",
+    "lue-fi",
+    "lue-fr",
+    "lue-sv",
+    "lun-en",
+    "luo-en",
+    "lus-en",
+    "lus-es",
+    "lus-fi",
+    "lus-fr",
+    "lus-sv",
+    "lv-en",
+    "lv-es",
+    "lv-fi",
+    "lv-fr",
+    "lv-ru",
+    "lv-sv",
+    "mfe-en",
+    "mfe-es",
+    "mfs-es",
+    "mg-en",
+    "mg-es",
+    "mh-en",
+    "mh-es",
+    "mh-fi",
+    "mk-en",
+    "mk-es",
+    "mk-fi",
+    "mk-fr",
+    "mkh-en",
+    "ml-en",
+    "mos-en",
+    "mr-en",
+    "ms-de",
+    "ms-fr",
+    "ms-it",
+    "ms-ms",
+    "mt-en",
+    "mt-es",
+    "mt-fi",
+    "mt-fr",
+    "mt-sv",
+    "mul-en",
+    "ng-en",
+    "nic-en",
+    "niu-de",
+    "niu-en",
+    "niu-es",
+    "niu-fi",
+    "niu-fr",
+    "niu-sv",
+    "nl-af",
+    "nl-ca",
+    "nl-en",
+    "nl-eo",
+    "nl-es",
+    "nl-fi",
+    "nl-fr",
+    "nl-no",
+    "nl-sv",
+    "nl-uk",
+    "no-da",
+    "no-de",
+    "no-es",
+    "no-fi",
+    "no-fr",
+    "no-nl",
+    "no-no",
+    "no-pl",
+    "no-ru",
+    "no-sv",
+    "no-uk",
+    "nso-de",
+    "nso-en",
+    "nso-es",
+    "nso-fi",
+    "nso-fr",
+    "nso-sv",
+    "ny-de",
+    "ny-en",
+    "ny-es",
+    "nyk-en",
+    "om-en",
+    "pa-en",
+    "pag-de",
+    "pag-en",
+    "pag-es",
+    "pag-fi",
+    "pag-sv",
+    "pap-de",
+    "pap-en",
+    "pap-es",
+    "pap-fi",
+    "pap-fr",
+    "phi-en",
+    "pis-en",
+    "pis-es",
+    "pis-fi",
+    "pis-fr",
+    "pis-sv",
+    "pl-ar",
+    "pl-de",
+    "pl-en",
+    "pl-eo",
+    "pl-es",
+    "pl-fr",
+    "pl-lt",
+    "pl-no",
+    "pl-sv",
+    "pl-uk",
+    "pon-en",
+    "pon-es",
+    "pon-fi",
+    "pon-fr",
+    "pon-sv",
+    "pqe-en",
+    "prl-es",
+    "pt-ca",
+    "pt-eo",
+    "pt-gl",
+    "pt-tl",
+    "tc-big"
+  ]
+}

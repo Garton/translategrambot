@@ -1,0 +1,8 @@
+Description:
+Send any text (or voice) and the bot returns a translation.
+• Auto-detects the source language; remembers your chosen source → target pair after you press “Choose languages”.
+• You can override on the fly: write “translate to German …” or “переведи на русский …”.
+• Supports 50 + languages, runs on local models—no external data storage.
+
+About:
+Universal translator bot: auto-detects source language & instantly translates to your chosen target.

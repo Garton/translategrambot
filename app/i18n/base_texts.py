@@ -31,7 +31,6 @@ TEXTS: Dict[str, Dict[str, str]] = {
         ),
         # /reset or end of session
         "bye": "👋 Settings cleared. Type /start to begin again.",
-        "unknown": "Could not detect the language.\nSend a longer text or select a pair below 👇",
         "pair_chosen": "Great! Now send the text to translate.",
         "choose_pair": "🔤 Choose source → target language:",
         "unknown_language_pair": "🙏 We are sorry, but we are not able to figure out this language pair",
@@ -60,7 +59,6 @@ TEXTS: Dict[str, Dict[str, str]] = {
             "французский, испанский, итальянский, китайский."
         ),
         "bye": "👋 Настройки сброшены. Наберите /start, чтобы начать заново.",
-        "unknown": "Не удалось определить язык.\nОтправьте более длинный текст или выберите пару ниже 👇",
         "pair_chosen": "Отлично! Теперь отправьте текст для перевода.",
         "choose_pair": "🔤 Выберите направление перевода:",
         "unknown_language_pair": "🙏 Мы очень сожалеем, но не можем определить пару языков",

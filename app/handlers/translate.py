@@ -13,6 +13,8 @@ router = Router()
 ls = LanguageService()
 translator = TranslationService()
 
+DEFAULT_INTERMEDIATE_LANGUAGE = "en"
+
 
 @router.message()
 async def translate(message: types.Message):
@@ -36,6 +38,24 @@ async def translate(message: types.Message):
         if translated:
             await message.answer(translated)
             return
+        else:  # trying use intermediate language
+            logger.info(
+                f"Failed to translate language {src_iso} to {target_iso}, trying intermediate language {DEFAULT_INTERMEDIATE_LANGUAGE}"
+            )
+            translated_intermediate = await translator.translate(
+                text, src_iso, DEFAULT_INTERMEDIATE_LANGUAGE
+            )
+            if translated_intermediate:
+                translated = await translator.translate(
+                    translated_intermediate, DEFAULT_INTERMEDIATE_LANGUAGE, target_iso
+                )
+                if translated:
+                    await message.answer(translated)
+                    return
+            else:
+                logger.info(
+                    f"Failed to translate language {src_iso} through intermediate language {DEFAULT_INTERMEDIATE_LANGUAGE} to {target_iso}"
+                )
 
     unknown_pair_text = await get_text(
         message.from_user.language_code, "unknown_language_pair"
