@@ -24,3 +24,8 @@ def choose_pair_btn(ui_lang: str = "en") -> InlineKeyboardMarkup:
     return InlineKeyboardMarkup(
         inline_keyboard=[[InlineKeyboardButton(text=text, callback_data="choose_pair")]]
     )
+
+
+def get_pair_btn_name(btn_code: str) -> str:
+    found = [label for label, data in PAIR_BUTTONS if data == btn_code]
+    return found[0] if found else "Unknown"
