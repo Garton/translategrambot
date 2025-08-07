@@ -5,7 +5,7 @@ from app.i18n.languages import LANGUAGES_EN, LANGUAGES_RU
 
 # common trigger phrases
 TRIGGER_RGX = re.compile(
-    r"(?:переведи(?:те)?\s+на|translate\s+to)\s+([a-zA-Zа-яё]+)",
+    r"(?:переведи(?:те)?\s+на|translate\s+to|@)\s*([a-zA-Zа-яё]+)",
     re.I,
 )
 

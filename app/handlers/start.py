@@ -45,3 +45,12 @@ async def cmd_my_pair(msg: types.Message):
         response = "❌ **No language pair set**\nUse /start to choose your preferred language pair."
 
     await msg.answer(response, parse_mode="Markdown")
+
+
+@router.message(Command("inline"))
+async def cmd_inline(msg: types.Message):
+    """Show information about inline mode."""
+    ui_lang = (msg.from_user.language_code or "en")[:2]
+
+    inline_help = await get_text(ui_lang, "inline_help")
+    await msg.answer(inline_help, parse_mode="Markdown")

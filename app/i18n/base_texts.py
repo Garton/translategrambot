@@ -25,7 +25,8 @@ TEXTS: Dict[str, Dict[str, str]] = {
         "help": (
             "📖 *Usage*\n"
             "• Type a message with `translate to <language>` inside.\n"
-            "• Or press the button below to pick languages.\n\n"
+            "• Or press the button below to pick languages.\n"
+            "• Use /inline for inline mode in other chats.\n\n"
             "*Supported languages*: English, Russian, German, French, "
             "Spanish, Italian, Chinese, You name it!"
         ),
@@ -34,6 +35,16 @@ TEXTS: Dict[str, Dict[str, str]] = {
         "pair_chosen": "Great! Now send the text to translate.",
         "choose_pair": "🔤 Choose source → target language:",
         "unknown_language_pair": "🙏 We are sorry, but we are not able to figure out this language pair",
+        "inline_help": (
+            "🌐 *Inline Translation*\n\n"
+            "To use inline translation:\n"
+            "1. Type @YourBotName in any chat\n"
+            "2. Add the text you want to translate\n"
+            "3. Optionally specify target language: `text @en` for English\n"
+            "4. Select the translation result\n\n"
+            "Example: `Hello world @ru` to translate to Russian"
+        ),
+        "translation_failed": "Translation failed. Please try a different language pair.",
     },
     "ru": {
         "start": (
@@ -54,7 +65,8 @@ TEXTS: Dict[str, Dict[str, str]] = {
         "help": (
             "📖 *Как пользоваться*\n"
             "• Добавьте в сообщение `переведи на <язык>`.\n"
-            "• Или нажмите кнопку выбора языков.\n\n"
+            "• Или нажмите кнопку выбора языков.\n"
+            "• Используйте /inline для инлайн режима в других чатах.\n\n"
             "*Поддерживаемые языки*: английский, русский, немецкий, "
             "французский, испанский, итальянский, китайский, и все остальные!"
         ),
@@ -62,5 +74,15 @@ TEXTS: Dict[str, Dict[str, str]] = {
         "pair_chosen": "Отлично! Теперь отправьте текст для перевода.",
         "choose_pair": "🔤 Выберите направление перевода:",
         "unknown_language_pair": "🙏 Мы очень сожалеем, но не можем определить пару языков",
+        "inline_help": (
+            "🌐 *Инлайн перевод*\n\n"
+            "Чтобы использовать инлайн перевод:\n"
+            "1. Введите @YourBotName в любом чате\n"
+            "2. Добавьте текст для перевода\n"
+            "3. Опционально укажите язык: `текст @en` для английского\n"
+            "4. Выберите результат перевода\n\n"
+            "Пример: `Привет мир @en` для перевода на английский"
+        ),
+        "translation_failed": "Перевод не удался. Попробуйте другую пару языков.",
     },
 }
