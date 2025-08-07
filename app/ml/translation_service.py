@@ -14,6 +14,10 @@ logger = logging.getLogger(__name__)
 USE_LIGHTWEIGHT_MODEL = True
 _MODEL_TPL_LIGHTWEIGHT = "Helsinki-NLP/opus-mt-{src}-{tgt}"
 _MODEL_TPL_HEAVY = "facebook/nllb-200-distilled-600M"
+
+
+DEFAULT_INTERMEDIATE_LANGUAGE = "en"
+
 from app.ml.nllb_codes import NLLB_CODES as _MODEL_TPL_HEAVY_CODE_MAP
 
 
@@ -61,6 +65,31 @@ class TranslationService:
             len(out),
         )
         return out
+
+    async def translate_intermediate(
+        self, text: str, src_lang: str, tgt_lang: str
+    ) -> str | None:
+        translated = await self.translate(text, src_lang, tgt_lang)
+        if translated:
+            return translated
+        else:  # trying use intermediate language
+            logger.info(
+                f"Failed to translate language {src_lang} to {tgt_lang}, trying intermediate language {DEFAULT_INTERMEDIATE_LANGUAGE}"
+            )
+            translated_intermediate = await self.translate(
+                text, src_lang, DEFAULT_INTERMEDIATE_LANGUAGE
+            )
+            if translated_intermediate:
+                translated = await self.translate(
+                    translated_intermediate, DEFAULT_INTERMEDIATE_LANGUAGE, tgt_lang
+                )
+                if translated:
+                    return translated
+            else:
+                logger.info(
+                    f"Failed to translate language {src_lang} through intermediate language {DEFAULT_INTERMEDIATE_LANGUAGE} to {tgt_lang}"
+                )
+        return None
 
     # ---------- PRIVATE ----------
     async def _get_pipeline(self, src_lang: str, tgt_lang: str) -> pipeline | None:
