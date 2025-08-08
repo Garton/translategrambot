@@ -1,5 +1,10 @@
 from typing import Dict
 
+from app.core.config import settings
+
+BOT_NAME = settings.BOT_NAME
+
+
 TEXTS: Dict[str, Dict[str, str]] = {
     "en": {
         # Sent after /start
@@ -38,11 +43,14 @@ TEXTS: Dict[str, Dict[str, str]] = {
         "inline_help": (
             "🌐 *Inline Translation*\n\n"
             "To use inline translation:\n"
-            "1. Type @YourBotName in any chat\n"
+            f"1. Type {BOT_NAME} in any chat\n"
             "2. Add the text you want to translate\n"
-            "3. Optionally specify target language: `text @en` for English\n"
+            "3. Optionally specify target language: `translate to Chinese`\n"
             "4. Select the translation result\n\n"
-            "Example: `Hello world @ru` to translate to Russian"
+            "Example: `translate to Chinese Hello world`\n"
+            "Your original language will be detected automatically\n"
+            "After that your language pair will be changed to English → Chinese\n"
+            "And you can continue translating in this language pair without typing translate to"
         ),
         "translation_failed": "Translation failed. Please try a different language pair.",
     },
@@ -77,11 +85,14 @@ TEXTS: Dict[str, Dict[str, str]] = {
         "inline_help": (
             "🌐 *Инлайн перевод*\n\n"
             "Чтобы использовать инлайн перевод:\n"
-            "1. Введите @YourBotName в любом чате\n"
+            f"1. Введите {BOT_NAME} в любом чате\n"
             "2. Добавьте текст для перевода\n"
-            "3. Опционально укажите язык: `текст @en` для английского\n"
+            "3. Опционально укажите язык: `переведи на английский`\n"
             "4. Выберите результат перевода\n\n"
-            "Пример: `Привет мир @en` для перевода на английский"
+            "Пример: `переведи на английский Привет мир`\n"
+            "Ваш исходный язык будет автоматически обнаружен\n"
+            "После этого ваша пара языков будет изменена на русский → английский\n"
+            "И вы можете продолжать переводить в этой паре языков, не вводя переведи на"
         ),
         "translation_failed": "Перевод не удался. Попробуйте другую пару языков.",
     },
